@@ -1,0 +1,1261 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "type": "bin",
+    "id": "BIN0",
+    "subgroup": "3030",
+    "collection_day": null,
+    "address": "Bendigo Bank G Werribee",
+    "fill_level": null,
+    "n_bins": 2,
+    "edges": [
+     "BIN1",
+     "BIN20",
+     "BIN13",
+     "BIN2",
+     "BIN26",
+     "BIN15",
+     "BIN4",
+     "BIN22",
+     "BIN12",
+     "BIN14",
+     "BIN9",
+     "BIN17",
+     "BIN19",
+     "BIN25",
+     "BIN16",
+     "DP1",
+     "CS1",
+     "CS2"
+    ],
+    "service_time": 0.08,
+    "weight": 5.0
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.660243333274,
+     -37.9018666694219
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "type": "bin",
+    "id": "BIN1",
+    "subgroup": "3030",
+    "collection_day": null,
+    "address": "Commercial Hotel R Werribee",
+    "fill_level": null,
+    "n_bins": 2,
+    "edges": [
+     "BIN0",
+     "BIN20",
+     "BIN13",
+     "BIN2",
+     "BIN26",
+     "BIN15",
+     "BIN25",
+     "BIN16",
+     "BIN4",
+     "BIN22",
+     "BIN12",
+     "BIN14",
+     "BIN9",
+     "BIN17",
+     "BIN19",
+     "DP1",
+     "CS1",
+     "BIN3",
+     "BIN5",
+     "CS2"
+    ],
+    "service_time": 0.08,
+    "weight": 5.0
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.660286666608,
+     -37.902026669422
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "type": "bin",
+    "id": "BIN2",
+    "subgroup": "3030",
+    "collection_day": null,
+    "address": "79 Watton St G Werribee ",
+    "fill_level": null,
+    "n_bins": 2,
+    "edges": [
+     "BIN26",
+     "BIN15",
+     "BIN4",
+     "BIN22",
+     "BIN12",
+     "BIN14",
+     "BIN9",
+     "BIN17",
+     "BIN19",
+     "BIN1",
+     "BIN23",
+     "BIN0",
+     "BIN20",
+     "BIN13",
+     "BIN25",
+     "DP1",
+     "CS1",
+     "CS2"
+    ],
+    "service_time": 0.08,
+    "weight": 5.0
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.661149490102,
+     -37.9013174885296
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "type": "bin",
+    "id": "BIN3",
+    "subgroup": "3030",
+    "collection_day": null,
+    "address": "Aldi G Point Cook",
+    "fill_level": null,
+    "n_bins": 1,
+    "edges": [
+     "BIN18",
+     "BIN7",
+     "BIN21",
+     "BIN8",
+     "BIN10",
+     "BIN11",
+     "BIN24",
+     "BIN6",
+     "BIN5",
+     "CS2",
+     "BIN4",
+     "BIN22",
+     "BIN12",
+     "BIN14",
+     "BIN9",
+     "DP1",
+     "CS1"
+    ],
+    "service_time": 0.04,
+    "weight": 2.5
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.735623333276,
+     -37.8825216694184
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "type": "bin",
+    "id": "BIN4",
+    "subgroup": "3030",
+    "collection_day": null,
+    "address": "Ballan House G Werribee",
+    "fill_level": null,
+    "n_bins": 2,
+    "edges": [
+     "BIN1",
+     "BIN0",
+     "BIN20",
+     "BIN13",
+     "BIN2",
+     "BIN26",
+     "BIN15",
+     "BIN25",
+     "BIN16",
+     "BIN22",
+     "BIN12",
+     "BIN14",
+     "BIN9",
+     "BIN17",
+     "BIN19",
+     "DP1",
+     "CS1",
+     "CS2"
+    ],
+    "service_time": 0.08,
+    "weight": 5.0
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.661916666608,
+     -37.9011583360884
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "type": "bin",
+    "id": "BIN5",
+    "subgroup": "3030",
+    "collection_day": null,
+    "address": "Aldi R Point Cook",
+    "fill_level": null,
+    "n_bins": 1,
+    "edges": [
+     "BIN3",
+     "BIN18",
+     "BIN7",
+     "BIN21",
+     "BIN8",
+     "BIN10",
+     "BIN11",
+     "BIN24",
+     "BIN6",
+     "CS2",
+     "BIN4",
+     "BIN22",
+     "BIN12",
+     "BIN14",
+     "BIN9",
+     "DP1",
+     "CS1"
+    ],
+    "service_time": 0.04,
+    "weight": 2.5
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.73564666661,
+     -37.8824250027517
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "type": "bin",
+    "id": "BIN6",
+    "subgroup": "3030",
+    "collection_day": null,
+    "address": "Woolworths R Point Cook",
+    "fill_level": null,
+    "n_bins": 1,
+    "edges": [
+     "BIN18",
+     "BIN21",
+     "BIN7",
+     "BIN8",
+     "BIN10",
+     "BIN11",
+     "BIN24",
+     "BIN3",
+     "BIN5",
+     "CS2",
+     "BIN4",
+     "BIN22",
+     "BIN12",
+     "BIN14",
+     "BIN9",
+     "DP1",
+     "CS1"
+    ],
+    "service_time": 0.04,
+    "weight": 2.5
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.735133512841,
+     -37.8840731077966
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "type": "bin",
+    "id": "BIN7",
+    "subgroup": "3030",
+    "collection_day": null,
+    "address": "Ally Fashion G Point Cook",
+    "fill_level": null,
+    "n_bins": 1,
+    "edges": [
+     "BIN8",
+     "BIN24",
+     "BIN6",
+     "BIN18",
+     "BIN21",
+     "BIN10",
+     "BIN11",
+     "BIN5",
+     "BIN3",
+     "CS2",
+     "BIN4",
+     "BIN22",
+     "BIN12",
+     "BIN14",
+     "BIN9",
+     "DP1",
+     "CS1"
+    ],
+    "service_time": 0.04,
+    "weight": 2.5
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.73549666661,
+     -37.8833800027519
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "type": "bin",
+    "id": "BIN8",
+    "subgroup": "3030",
+    "collection_day": null,
+    "address": "Ally Fashion R Point Cook",
+    "fill_level": null,
+    "n_bins": 1,
+    "edges": [
+     "BIN24",
+     "BIN6",
+     "BIN18",
+     "BIN21",
+     "BIN7",
+     "BIN10",
+     "BIN11",
+     "BIN5",
+     "BIN3",
+     "CS2",
+     "BIN4",
+     "BIN22",
+     "BIN12",
+     "BIN14",
+     "BIN9",
+     "DP1",
+     "CS1"
+    ],
+    "service_time": 0.04,
+    "weight": 2.5
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.735453333276,
+     -37.8834450027519
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "type": "bin",
+    "id": "BIN9",
+    "subgroup": "3030",
+    "collection_day": null,
+    "address": "Hockingstuart R Werribee",
+    "fill_level": null,
+    "n_bins": 1,
+    "edges": [
+     "BIN17",
+     "BIN22",
+     "BIN12",
+     "BIN4",
+     "BIN14",
+     "BIN19",
+     "BIN23",
+     "BIN1",
+     "BIN0",
+     "BIN20",
+     "BIN13",
+     "BIN2",
+     "BIN26",
+     "BIN15",
+     "BIN25",
+     "DP1",
+     "CS1",
+     "CS2"
+    ],
+    "service_time": 0.04,
+    "weight": 2.5
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.661874372957,
+     -37.900588496928
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "type": "bin",
+    "id": "BIN10",
+    "subgroup": "3030",
+    "collection_day": null,
+    "address": "Coles G Point Cook",
+    "fill_level": null,
+    "n_bins": 1,
+    "edges": [
+     "BIN11",
+     "BIN3",
+     "BIN18",
+     "BIN7",
+     "BIN21",
+     "BIN8",
+     "BIN5",
+     "BIN24",
+     "BIN6",
+     "CS2",
+     "BIN4",
+     "BIN22",
+     "BIN12",
+     "BIN14",
+     "BIN9",
+     "DP1",
+     "CS1"
+    ],
+    "service_time": 0.04,
+    "weight": 2.5
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.735282893791,
+     -37.8827389724989
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "type": "bin",
+    "id": "BIN11",
+    "subgroup": "3030",
+    "collection_day": null,
+    "address": "Coles R Point Cook",
+    "fill_level": null,
+    "n_bins": 1,
+    "edges": [
+     "BIN3",
+     "BIN18",
+     "BIN7",
+     "BIN21",
+     "BIN8",
+     "BIN10",
+     "BIN5",
+     "BIN24",
+     "BIN6",
+     "CS2",
+     "BIN4",
+     "BIN22",
+     "BIN12",
+     "BIN14",
+     "BIN9",
+     "DP1",
+     "BIN0",
+     "BIN25",
+     "CS1"
+    ],
+    "service_time": 0.04,
+    "weight": 2.5
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.735344999943,
+     -37.8827266694184
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "type": "bin",
+    "id": "BIN12",
+    "subgroup": "3030",
+    "collection_day": null,
+    "address": "Cash Converters R Werribee",
+    "fill_level": null,
+    "n_bins": 1,
+    "edges": [
+     "BIN14",
+     "BIN9",
+     "BIN17",
+     "BIN19",
+     "BIN22",
+     "BIN4",
+     "BIN23",
+     "BIN1",
+     "BIN0",
+     "BIN20",
+     "BIN13",
+     "BIN2",
+     "BIN26",
+     "BIN15",
+     "BIN25",
+     "DP1",
+     "CS1",
+     "CS2"
+    ],
+    "service_time": 0.04,
+    "weight": 2.5
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.661432721006,
+     -37.9007198973462
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "type": "bin",
+    "id": "BIN13",
+    "subgroup": "3030",
+    "collection_day": null,
+    "address": "Watton Plaza R Werribee",
+    "fill_level": null,
+    "n_bins": 1,
+    "edges": [
+     "BIN2",
+     "BIN26",
+     "BIN15",
+     "BIN4",
+     "BIN22",
+     "BIN12",
+     "BIN14",
+     "BIN9",
+     "BIN17",
+     "BIN19",
+     "BIN1",
+     "BIN23",
+     "BIN0",
+     "BIN20",
+     "BIN25",
+     "DP1",
+     "CS1",
+     "CS2"
+    ],
+    "service_time": 0.04,
+    "weight": 2.5
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.660758333274,
+     -37.9015550027552
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "type": "bin",
+    "id": "BIN14",
+    "subgroup": "3030",
+    "collection_day": null,
+    "address": "General Practice G Werribee",
+    "fill_level": null,
+    "n_bins": 2,
+    "edges": [
+     "BIN19",
+     "BIN9",
+     "BIN17",
+     "BIN22",
+     "BIN12",
+     "BIN23",
+     "BIN4",
+     "BIN1",
+     "BIN0",
+     "BIN20",
+     "BIN13",
+     "BIN2",
+     "BIN26",
+     "BIN15",
+     "BIN25",
+     "DP1",
+     "CS1",
+     "CS2"
+    ],
+    "service_time": 0.08,
+    "weight": 5.0
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.661279999941,
+     -37.9001810027548
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "type": "bin",
+    "id": "BIN15",
+    "subgroup": "3030",
+    "collection_day": null,
+    "address": "Park Hotel R Werribee",
+    "fill_level": null,
+    "n_bins": 1,
+    "edges": [
+     "BIN4",
+     "BIN22",
+     "BIN12",
+     "BIN14",
+     "BIN9",
+     "BIN17",
+     "BIN19",
+     "BIN1",
+     "BIN23",
+     "BIN0",
+     "BIN20",
+     "BIN13",
+     "BIN2",
+     "BIN26",
+     "BIN25",
+     "DP1",
+     "CS1",
+     "BIN3",
+     "BIN5",
+     "CS2"
+    ],
+    "service_time": 0.04,
+    "weight": 2.5
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.661403634696,
+     -37.9011768019073
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "type": "bin",
+    "id": "BIN16",
+    "subgroup": "3030",
+    "collection_day": null,
+    "address": "Wedge St Piazza G Werribee",
+    "fill_level": null,
+    "n_bins": 1,
+    "edges": [
+     "BIN25",
+     "BIN0",
+     "BIN1",
+     "BIN20",
+     "BIN13",
+     "BIN2",
+     "BIN26",
+     "BIN15",
+     "BIN4",
+     "BIN22",
+     "BIN12",
+     "BIN14",
+     "BIN9",
+     "BIN17",
+     "BIN19",
+     "DP1",
+     "CS1",
+     "CS2"
+    ],
+    "service_time": 0.04,
+    "weight": 2.5
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.657550310788,
+     -37.9030024896033
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "type": "bin",
+    "id": "BIN17",
+    "subgroup": "3030",
+    "collection_day": null,
+    "address": "Hockingstuart G Werribee",
+    "fill_level": null,
+    "n_bins": 1,
+    "edges": [
+     "BIN22",
+     "BIN12",
+     "BIN4",
+     "BIN14",
+     "BIN9",
+     "BIN19",
+     "BIN23",
+     "BIN1",
+     "BIN0",
+     "BIN20",
+     "BIN13",
+     "BIN2",
+     "BIN26",
+     "BIN15",
+     "BIN25",
+     "DP1",
+     "CS1",
+     "BIN3",
+     "BIN5",
+     "CS2"
+    ],
+    "service_time": 0.04,
+    "weight": 2.5
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.661916666608,
+     -37.9006433360883
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "type": "bin",
+    "id": "BIN18",
+    "subgroup": "3030",
+    "collection_day": null,
+    "address": "Nandos R Point Cook",
+    "fill_level": null,
+    "n_bins": 1,
+    "edges": [
+     "BIN21",
+     "BIN7",
+     "BIN8",
+     "BIN10",
+     "BIN11",
+     "BIN24",
+     "BIN6",
+     "BIN3",
+     "BIN5",
+     "CS2",
+     "BIN4",
+     "BIN22",
+     "BIN12",
+     "BIN14",
+     "BIN9",
+     "DP1",
+     "CS1"
+    ],
+    "service_time": 0.04,
+    "weight": 2.5
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.73521666661,
+     -37.8832300027519
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "type": "bin",
+    "id": "BIN19",
+    "subgroup": "3030",
+    "collection_day": null,
+    "address": "Proven Training G Werribee",
+    "fill_level": null,
+    "n_bins": 1,
+    "edges": [
+     "BIN23",
+     "BIN9",
+     "BIN17",
+     "BIN22",
+     "BIN12",
+     "BIN4",
+     "BIN14",
+     "BIN1",
+     "BIN0",
+     "BIN20",
+     "BIN13",
+     "BIN2",
+     "BIN26",
+     "BIN15",
+     "BIN25",
+     "DP1",
+     "CS1",
+     "CS2"
+    ],
+    "service_time": 0.04,
+    "weight": 2.5
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.661444999941,
+     -37.9000316694215
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "type": "bin",
+    "id": "BIN20",
+    "subgroup": "3030",
+    "collection_day": null,
+    "address": "Watton Plaza G Werribee",
+    "fill_level": null,
+    "n_bins": 1,
+    "edges": [
+     "BIN13",
+     "BIN2",
+     "BIN26",
+     "BIN15",
+     "BIN4",
+     "BIN22",
+     "BIN12",
+     "BIN14",
+     "BIN9",
+     "BIN17",
+     "BIN19",
+     "BIN1",
+     "BIN23",
+     "BIN0",
+     "BIN25",
+     "DP1",
+     "CS1",
+     "CS2"
+    ],
+    "service_time": 0.04,
+    "weight": 2.5
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.660736666608,
+     -37.9016183360885
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "type": "bin",
+    "id": "BIN21",
+    "subgroup": "3030",
+    "collection_day": null,
+    "address": "Nandos G Point Cook",
+    "fill_level": null,
+    "n_bins": 1,
+    "edges": [
+     "BIN7",
+     "BIN8",
+     "BIN10",
+     "BIN11",
+     "BIN24",
+     "BIN6",
+     "BIN3",
+     "BIN18",
+     "BIN5",
+     "CS2",
+     "BIN4",
+     "BIN22",
+     "BIN12",
+     "BIN14",
+     "BIN9",
+     "DP1",
+     "BIN0",
+     "BIN25",
+     "CS1"
+    ],
+    "service_time": 0.04,
+    "weight": 2.5
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.735140736714,
+     -37.8832200557056
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "type": "bin",
+    "id": "BIN22",
+    "subgroup": "3030",
+    "collection_day": null,
+    "address": "Cash Converters G Werribee",
+    "fill_level": null,
+    "n_bins": 1,
+    "edges": [
+     "BIN12",
+     "BIN14",
+     "BIN9",
+     "BIN17",
+     "BIN19",
+     "BIN4",
+     "BIN23",
+     "BIN1",
+     "BIN0",
+     "BIN20",
+     "BIN13",
+     "BIN2",
+     "BIN26",
+     "BIN15",
+     "BIN25",
+     "DP1",
+     "CS1",
+     "CS2"
+    ],
+    "service_time": 0.04,
+    "weight": 2.5
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.661409251677,
+     -37.9007616694217
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "type": "bin",
+    "id": "BIN23",
+    "subgroup": "3030",
+    "collection_day": null,
+    "address": "Proven Training R Werribee",
+    "fill_level": null,
+    "n_bins": 1,
+    "edges": [
+     "BIN9",
+     "BIN17",
+     "BIN22",
+     "BIN12",
+     "BIN4",
+     "BIN14",
+     "BIN19",
+     "BIN1",
+     "BIN0",
+     "BIN20",
+     "BIN13",
+     "BIN2",
+     "BIN26",
+     "BIN15",
+     "BIN25",
+     "DP1",
+     "CS1",
+     "CS2"
+    ],
+    "service_time": 0.04,
+    "weight": 2.5
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.661471822031,
+     -37.9000687236928
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "type": "bin",
+    "id": "BIN24",
+    "subgroup": "3030",
+    "collection_day": null,
+    "address": "Woolworths G Point Cook",
+    "fill_level": null,
+    "n_bins": 1,
+    "edges": [
+     "BIN6",
+     "BIN18",
+     "BIN21",
+     "BIN7",
+     "BIN8",
+     "BIN10",
+     "BIN11",
+     "BIN3",
+     "BIN5",
+     "CS2",
+     "BIN4",
+     "BIN22",
+     "BIN12",
+     "BIN14",
+     "BIN9",
+     "DP1",
+     "CS1"
+    ],
+    "service_time": 0.04,
+    "weight": 2.5
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.73514166661,
+     -37.8841133360854
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "type": "bin",
+    "id": "BIN25",
+    "subgroup": "3030",
+    "collection_day": null,
+    "address": "Wedge St Piazza R Werribee",
+    "fill_level": null,
+    "n_bins": 1,
+    "edges": [
+     "BIN16",
+     "BIN0",
+     "BIN1",
+     "BIN20",
+     "BIN13",
+     "BIN2",
+     "BIN26",
+     "BIN15",
+     "BIN4",
+     "BIN22",
+     "BIN12",
+     "BIN14",
+     "BIN9",
+     "BIN17",
+     "BIN19",
+     "DP1",
+     "CS1",
+     "CS2"
+    ],
+    "service_time": 0.04,
+    "weight": 2.5
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.657518333274,
+     -37.9030250027555
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "type": "bin",
+    "id": "BIN26",
+    "subgroup": "3030",
+    "collection_day": null,
+    "address": "Park Hotel G Werribee",
+    "fill_level": null,
+    "n_bins": 1,
+    "edges": [
+     "BIN15",
+     "BIN4",
+     "BIN22",
+     "BIN12",
+     "BIN14",
+     "BIN9",
+     "BIN17",
+     "BIN19",
+     "BIN1",
+     "BIN23",
+     "BIN0",
+     "BIN20",
+     "BIN13",
+     "BIN2",
+     "BIN25",
+     "DP1",
+     "CS1",
+     "CS2"
+    ],
+    "service_time": 0.04,
+    "weight": 2.5
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.66137551507,
+     -37.9011926744922
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.61444710597328,
+     -37.87421238391122
+    ]
+   },
+   "properties": {
+    "type": "CS",
+    "id": "CS1",
+    "title": "Chargefox",
+    "cs_type": 2,
+    "bay": 2,
+    "address": "Ballan Rd, Wyndham Vale, Victoria",
+    "subgroup": "3024",
+    "edges": [
+     "BIN0",
+     "BIN1",
+     "BIN2",
+     "BIN3",
+     "BIN4",
+     "BIN5",
+     "BIN6",
+     "BIN7",
+     "BIN8",
+     "BIN9",
+     "BIN10",
+     "BIN11",
+     "BIN12",
+     "BIN13",
+     "BIN14",
+     "BIN15",
+     "BIN16",
+     "BIN17",
+     "BIN18",
+     "BIN19",
+     "BIN20",
+     "BIN21",
+     "BIN22",
+     "BIN23",
+     "BIN24",
+     "BIN25",
+     "BIN26",
+     "CS2",
+     "DP1"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.76905600127986,
+     -37.863095880282984
+    ]
+   },
+   "properties": {
+    "type": "CS",
+    "id": "CS2",
+    "title": "Chargefox",
+    "cs_type": 2,
+    "bay": 2,
+    "address": "Donald St, Laverton, Victoria",
+    "subgroup": "3028",
+    "edges": [
+     "BIN0",
+     "BIN1",
+     "BIN2",
+     "BIN3",
+     "BIN4",
+     "BIN5",
+     "BIN6",
+     "BIN7",
+     "BIN8",
+     "BIN9",
+     "BIN10",
+     "BIN11",
+     "BIN12",
+     "BIN13",
+     "BIN14",
+     "BIN15",
+     "BIN16",
+     "BIN17",
+     "BIN18",
+     "BIN19",
+     "BIN20",
+     "BIN21",
+     "BIN22",
+     "BIN23",
+     "BIN24",
+     "BIN25",
+     "BIN26",
+     "CS1",
+     "DP1"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.59634630776844,
+     -37.941774190648815
+    ]
+   },
+   "properties": {
+    "type": "depot",
+    "id": "DP1",
+    "title": "Transfer Station",
+    "n_vehicles": null,
+    "address": "470 Wests Road, Werribee",
+    "subgroup": "3030",
+    "edges": [
+     "BIN0",
+     "BIN1",
+     "BIN2",
+     "BIN3",
+     "BIN4",
+     "BIN5",
+     "BIN6",
+     "BIN7",
+     "BIN8",
+     "BIN9",
+     "BIN10",
+     "BIN11",
+     "BIN12",
+     "BIN13",
+     "BIN14",
+     "BIN15",
+     "BIN16",
+     "BIN17",
+     "BIN18",
+     "BIN19",
+     "BIN20",
+     "BIN21",
+     "BIN22",
+     "BIN23",
+     "BIN24",
+     "BIN25",
+     "BIN26",
+     "CS1",
+     "CS2"
+    ]
+   }
+  }
+ ]
+}

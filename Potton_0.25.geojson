@@ -1,0 +1,2457 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "type": "bin",
+    "id": "BIN0",
+    "subgroup": "SG19",
+    "collection_day": null,
+    "address": "Sutton Road-Green dog bin on junction with Bury Hill, opposite No 74",
+    "fill_level": null,
+    "n_bins": 1,
+    "edges": [
+     "BIN34",
+     "BIN10",
+     "BIN14",
+     "BIN30",
+     "BIN1",
+     "BIN2",
+     "BIN29",
+     "BIN6",
+     "BIN3",
+     "BIN7",
+     "BIN8",
+     "BIN28",
+     "BIN4",
+     "DP1",
+     "BIN16",
+     "BIN24",
+     "BIN11",
+     "BIN31",
+     "BIN42",
+     "BIN40",
+     "BIN43",
+     "BIN36",
+     "BIN20",
+     "BIN41",
+     "BIN25",
+     "CS5",
+     "CS0",
+     "CS1",
+     "CS2",
+     "CS4"
+    ],
+    "service_time": 0.04,
+    "weight": 2.5
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.2045748,
+     52.1259137
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "type": "bin",
+    "id": "BIN1",
+    "subgroup": "SG19",
+    "collection_day": null,
+    "address": "Hatley Road-In layby opposite Scout Hut",
+    "fill_level": null,
+    "n_bins": 1,
+    "edges": [
+     "BIN2",
+     "BIN0",
+     "BIN34",
+     "BIN10",
+     "BIN14",
+     "BIN30",
+     "BIN29",
+     "BIN3",
+     "BIN7",
+     "BIN8",
+     "BIN28",
+     "BIN6",
+     "DP1",
+     "BIN42",
+     "BIN41",
+     "CS5",
+     "CS0",
+     "CS1",
+     "CS2",
+     "CS4"
+    ],
+    "service_time": 0.04,
+    "weight": 2.5
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.2049454,
+     52.1294303
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "type": "bin",
+    "id": "BIN2",
+    "subgroup": "SG19",
+    "collection_day": null,
+    "address": "Hatley Road-In layby opposite Scout Hut",
+    "fill_level": null,
+    "n_bins": 1,
+    "edges": [
+     "BIN0",
+     "BIN34",
+     "BIN10",
+     "BIN14",
+     "BIN30",
+     "BIN1",
+     "BIN29",
+     "BIN3",
+     "BIN7",
+     "BIN8",
+     "BIN28",
+     "BIN6",
+     "DP1",
+     "BIN13",
+     "BIN16",
+     "BIN24",
+     "BIN11",
+     "BIN31",
+     "BIN42",
+     "BIN40",
+     "BIN43",
+     "BIN36",
+     "BIN20",
+     "BIN41",
+     "BIN25",
+     "CS5",
+     "CS0",
+     "CS1",
+     "CS2",
+     "CS4"
+    ],
+    "service_time": 0.04,
+    "weight": 2.5
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.2049067,
+     52.1294422
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "type": "bin",
+    "id": "BIN3",
+    "subgroup": "SG19",
+    "collection_day": null,
+    "address": "Henry Smith-Green waste bin by green bench at Church Causeway end of Millennium Path\u00a0",
+    "fill_level": null,
+    "n_bins": 1,
+    "edges": [
+     "BIN18",
+     "BIN16",
+     "BIN8",
+     "BIN29",
+     "BIN10",
+     "BIN14",
+     "BIN13",
+     "BIN28",
+     "BIN34",
+     "BIN30",
+     "BIN7",
+     "BIN0",
+     "DP1",
+     "CS5",
+     "CS0",
+     "CS1",
+     "CS2",
+     "CS4"
+    ],
+    "service_time": 0.04,
+    "weight": 2.5
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.2097618,
+     52.1292441
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "type": "bin",
+    "id": "BIN4",
+    "subgroup": "SG19",
+    "collection_day": null,
+    "address": "Henry Smith/Church Causeway-Red dog bin at Church Causeway end of Millennium Path",
+    "fill_level": null,
+    "n_bins": 1,
+    "edges": [
+     "BIN6",
+     "BIN1",
+     "BIN2",
+     "BIN13",
+     "BIN33",
+     "BIN17",
+     "BIN37",
+     "BIN12",
+     "BIN21",
+     "BIN0",
+     "BIN23",
+     "BIN35",
+     "BIN28",
+     "DP1",
+     "BIN10",
+     "BIN29",
+     "BIN24",
+     "BIN3",
+     "BIN7",
+     "BIN8",
+     "BIN16",
+     "CS5",
+     "CS0",
+     "CS1",
+     "CS2",
+     "CS4"
+    ],
+    "service_time": 0.04,
+    "weight": 2.5
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.2095841,
+     52.1293834
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "type": "bin",
+    "id": "BIN5",
+    "subgroup": "SG19",
+    "collection_day": null,
+    "address": null,
+    "fill_level": null,
+    "n_bins": 1,
+    "edges": [
+     "BIN0",
+     "BIN34",
+     "BIN10",
+     "BIN14",
+     "BIN30",
+     "BIN1",
+     "BIN2",
+     "BIN29",
+     "BIN3",
+     "BIN7",
+     "BIN8",
+     "BIN28",
+     "DP1",
+     "BIN13",
+     "BIN16",
+     "BIN24",
+     "BIN11",
+     "BIN31",
+     "BIN42",
+     "BIN40",
+     "BIN43",
+     "BIN36",
+     "BIN41",
+     "BIN25",
+     "CS0",
+     "CS5",
+     "CS1",
+     "CS2",
+     "CS4"
+    ],
+    "service_time": 0.04,
+    "weight": 2.5
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.2115391,
+     52.1114995
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "type": "bin",
+    "id": "BIN6",
+    "subgroup": "SG19",
+    "collection_day": null,
+    "address": null,
+    "fill_level": null,
+    "n_bins": 1,
+    "edges": [
+     "BIN33",
+     "BIN17",
+     "BIN13",
+     "BIN4",
+     "BIN37",
+     "BIN12",
+     "BIN1",
+     "BIN2",
+     "BIN21",
+     "BIN23",
+     "BIN35",
+     "BIN28",
+     "BIN10",
+     "DP1",
+     "BIN11",
+     "BIN29",
+     "BIN3",
+     "BIN7",
+     "BIN8",
+     "BIN34",
+     "BIN30",
+     "BIN16",
+     "BIN31",
+     "BIN40",
+     "BIN41",
+     "BIN25",
+     "CS5",
+     "CS0",
+     "CS1",
+     "CS2",
+     "CS4"
+    ],
+    "service_time": 0.04,
+    "weight": 2.5
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.2107521,
+     52.1314028
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "type": "bin",
+    "id": "BIN7",
+    "subgroup": "SG19",
+    "collection_day": null,
+    "address": "Church Causeway-Red dog bin by path to Aldgate Close",
+    "fill_level": null,
+    "n_bins": 1,
+    "edges": [
+     "BIN3",
+     "BIN18",
+     "BIN16",
+     "BIN8",
+     "BIN29",
+     "BIN10",
+     "BIN14",
+     "BIN13",
+     "BIN28",
+     "BIN34",
+     "BIN30",
+     "BIN0",
+     "DP1",
+     "CS5",
+     "CS0",
+     "CS1",
+     "CS2",
+     "CS4"
+    ],
+    "service_time": 0.04,
+    "weight": 2.5
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.2105576,
+     52.129257
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "type": "bin",
+    "id": "BIN8",
+    "subgroup": "SG19",
+    "collection_day": null,
+    "address": "Henry Smith\u00a0-Green waste bin by bench",
+    "fill_level": null,
+    "n_bins": 1,
+    "edges": [
+     "BIN29",
+     "BIN10",
+     "BIN14",
+     "BIN13",
+     "BIN28",
+     "BIN34",
+     "BIN30",
+     "BIN3",
+     "BIN7",
+     "BIN18",
+     "BIN0",
+     "BIN16",
+     "BIN6",
+     "DP1",
+     "BIN33",
+     "BIN17",
+     "BIN4",
+     "BIN1",
+     "BIN12",
+     "CS5",
+     "CS0",
+     "CS1",
+     "CS2",
+     "CS4"
+    ],
+    "service_time": 0.04,
+    "weight": 2.5
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.2107522,
+     52.1273971
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "type": "bin",
+    "id": "BIN9",
+    "subgroup": "SG19",
+    "collection_day": null,
+    "address": "Everton Road-Opposite The Rising Sun pub, at the end of the alleyway",
+    "fill_level": null,
+    "n_bins": 1,
+    "edges": [
+     "BIN37",
+     "BIN12",
+     "BIN21",
+     "BIN6",
+     "BIN33",
+     "BIN17",
+     "BIN35",
+     "BIN28",
+     "BIN13",
+     "BIN4",
+     "BIN11",
+     "BIN32",
+     "DP1",
+     "BIN1",
+     "BIN24",
+     "BIN10",
+     "BIN29",
+     "BIN3",
+     "BIN7",
+     "BIN8",
+     "BIN31",
+     "BIN34",
+     "BIN30",
+     "BIN16",
+     "BIN40",
+     "BIN41",
+     "BIN25",
+     "CS5",
+     "CS0",
+     "CS1",
+     "CS2",
+     "CS4"
+    ],
+    "service_time": 0.04,
+    "weight": 2.5
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.2158382,
+     52.1313086
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "type": "bin",
+    "id": "BIN10",
+    "subgroup": "SG19",
+    "collection_day": null,
+    "address": "Henry Smith-Green \u00a0dog waste bin by horse dip",
+    "fill_level": null,
+    "n_bins": 1,
+    "edges": [
+     "BIN14",
+     "BIN29",
+     "BIN3",
+     "BIN7",
+     "BIN8",
+     "BIN18",
+     "BIN13",
+     "BIN28",
+     "BIN16",
+     "BIN34",
+     "BIN30",
+     "BIN0",
+     "DP1",
+     "CS5",
+     "CS0",
+     "CS1",
+     "CS2",
+     "CS4"
+    ],
+    "service_time": 0.04,
+    "weight": 2.5
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.2109655,
+     52.1271477
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "type": "bin",
+    "id": "BIN11",
+    "subgroup": "SG19",
+    "collection_day": null,
+    "address": "Meeting Lane-Red Dog bin halfway between Horslow Street and Chapman Close",
+    "fill_level": null,
+    "n_bins": 1,
+    "edges": [
+     "BIN24",
+     "BIN28",
+     "BIN37",
+     "BIN9",
+     "BIN21",
+     "BIN35",
+     "BIN27",
+     "BIN31",
+     "BIN10",
+     "BIN14",
+     "BIN42",
+     "BIN13",
+     "DP1",
+     "BIN40",
+     "BIN43",
+     "BIN29",
+     "BIN36",
+     "BIN3",
+     "BIN7",
+     "BIN8",
+     "BIN34",
+     "BIN30",
+     "BIN16",
+     "BIN0",
+     "BIN41",
+     "BIN25",
+     "CS5",
+     "CS0",
+     "CS1",
+     "CS2",
+     "CS4"
+    ],
+    "service_time": 0.04,
+    "weight": 2.5
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.21706,
+     52.1286563
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "type": "bin",
+    "id": "BIN12",
+    "subgroup": "SG19",
+    "collection_day": null,
+    "address": "Meeting Lane-Green dog bin by barriers at junction with path to Sheffield Close",
+    "fill_level": null,
+    "n_bins": 1,
+    "edges": [
+     "BIN37",
+     "BIN6",
+     "BIN33",
+     "BIN21",
+     "BIN17",
+     "BIN13",
+     "BIN35",
+     "BIN4",
+     "BIN28",
+     "BIN1",
+     "BIN2",
+     "BIN11",
+     "DP1",
+     "BIN23",
+     "BIN10",
+     "BIN29",
+     "BIN31",
+     "BIN3",
+     "BIN7",
+     "BIN8",
+     "BIN34",
+     "BIN30",
+     "BIN40",
+     "BIN16",
+     "BIN41",
+     "BIN25",
+     "CS5",
+     "CS0",
+     "CS1",
+     "CS2",
+     "CS4"
+    ],
+    "service_time": 0.04,
+    "weight": 2.5
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.2139897,
+     52.1292501
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "type": "bin",
+    "id": "BIN13",
+    "subgroup": "SG19",
+    "collection_day": null,
+    "address": "King Street/Spencer Close-Green bin at end of Meeting Lane, on the grass",
+    "fill_level": null,
+    "n_bins": 1,
+    "edges": [
+     "BIN6",
+     "BIN28",
+     "BIN33",
+     "BIN17",
+     "BIN4",
+     "BIN10",
+     "BIN14",
+     "BIN37",
+     "BIN1",
+     "BIN2",
+     "BIN12",
+     "BIN29",
+     "BIN24",
+     "DP1",
+     "BIN3",
+     "BIN7",
+     "BIN8",
+     "BIN34",
+     "BIN30",
+     "BIN16",
+     "BIN11",
+     "BIN0",
+     "BIN31",
+     "BIN42",
+     "BIN40",
+     "BIN43",
+     "BIN36",
+     "BIN41",
+     "BIN25",
+     "CS5",
+     "CS0",
+     "CS1",
+     "CS2",
+     "CS4"
+    ],
+    "service_time": 0.04,
+    "weight": 2.5
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.2126048,
+     52.1292175
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "type": "bin",
+    "id": "BIN14",
+    "subgroup": "SG19",
+    "collection_day": null,
+    "address": "Henry Smith-Green bin by horse dip",
+    "fill_level": null,
+    "n_bins": 1,
+    "edges": [
+     "BIN10",
+     "BIN29",
+     "BIN3",
+     "BIN7",
+     "BIN8",
+     "BIN18",
+     "BIN13",
+     "BIN28",
+     "BIN16",
+     "BIN34",
+     "BIN30",
+     "BIN0",
+     "DP1",
+     "CS5",
+     "CS0",
+     "CS1",
+     "CS2",
+     "CS4"
+    ],
+    "service_time": 0.04,
+    "weight": 2.5
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.2109963,
+     52.1271238
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "type": "bin",
+    "id": "BIN15",
+    "subgroup": "SG19",
+    "collection_day": null,
+    "address": "Sandy Road-Black bin by school playing field",
+    "fill_level": null,
+    "n_bins": 1,
+    "edges": [
+     "BIN22",
+     "BIN28",
+     "BIN24",
+     "BIN11",
+     "BIN37",
+     "BIN27",
+     "BIN9",
+     "BIN10",
+     "BIN14",
+     "BIN13",
+     "BIN21",
+     "BIN31",
+     "DP1",
+     "BIN32",
+     "CS5",
+     "CS0",
+     "CS1",
+     "CS2",
+     "CS4"
+    ],
+    "service_time": 0.04,
+    "weight": 2.5
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.2211985,
+     52.127819
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "type": "bin",
+    "id": "BIN16",
+    "subgroup": "SG19",
+    "collection_day": null,
+    "address": "Henry Smith-Green bin by bench",
+    "fill_level": null,
+    "n_bins": 1,
+    "edges": [
+     "BIN8",
+     "BIN29",
+     "BIN10",
+     "BIN14",
+     "BIN13",
+     "BIN28",
+     "BIN34",
+     "BIN30",
+     "BIN3",
+     "BIN7",
+     "BIN18",
+     "BIN0",
+     "DP1",
+     "CS5",
+     "CS0",
+     "CS1",
+     "CS2",
+     "CS4"
+    ],
+    "service_time": 0.04,
+    "weight": 2.5
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.2106007,
+     52.1280019
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "type": "bin",
+    "id": "BIN17",
+    "subgroup": "SG19",
+    "collection_day": null,
+    "address": null,
+    "fill_level": null,
+    "n_bins": 1,
+    "edges": [
+     "BIN33",
+     "BIN6",
+     "BIN13",
+     "BIN4",
+     "BIN37",
+     "BIN12",
+     "BIN23",
+     "BIN21",
+     "BIN1",
+     "BIN2",
+     "BIN28",
+     "BIN35",
+     "BIN11",
+     "DP1",
+     "BIN10",
+     "BIN29",
+     "BIN3",
+     "BIN7",
+     "BIN8",
+     "BIN34",
+     "BIN30",
+     "BIN31",
+     "BIN16",
+     "BIN40",
+     "BIN41",
+     "BIN25",
+     "CS5",
+     "CS0",
+     "CS1",
+     "CS2",
+     "CS4"
+    ],
+    "service_time": 0.04,
+    "weight": 2.5
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.2121908,
+     52.132816
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "type": "bin",
+    "id": "BIN18",
+    "subgroup": "SG19",
+    "collection_day": null,
+    "address": "Henry Smith-Green waste bin by green bench on Millennium Path",
+    "fill_level": null,
+    "n_bins": 1,
+    "edges": [
+     "BIN16",
+     "BIN8",
+     "BIN29",
+     "BIN10",
+     "BIN14",
+     "BIN13",
+     "BIN28",
+     "BIN34",
+     "BIN30",
+     "BIN3",
+     "BIN7",
+     "BIN0",
+     "DP1",
+     "BIN39",
+     "CS5",
+     "CS0",
+     "CS1",
+     "CS2",
+     "CS4"
+    ],
+    "service_time": 0.04,
+    "weight": 2.5
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.2107757,
+     52.1284391
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "type": "bin",
+    "id": "BIN19",
+    "subgroup": "SG19",
+    "collection_day": null,
+    "address": "Biggleswade Road-Red dog bin in entrance to Pegnut Wood, just past the sewerage plant",
+    "fill_level": null,
+    "n_bins": 1,
+    "edges": [
+     "BIN20",
+     "BIN38",
+     "BIN5",
+     "BIN41",
+     "BIN26",
+     "BIN27",
+     "BIN31",
+     "BIN15",
+     "BIN25",
+     "BIN22",
+     "BIN42",
+     "BIN40",
+     "DP1",
+     "CS5",
+     "CS0",
+     "CS1",
+     "CS2",
+     "CS4"
+    ],
+    "service_time": 0.04,
+    "weight": 2.5
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.2187333,
+     52.1218162
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "type": "bin",
+    "id": "BIN20",
+    "subgroup": "SG19",
+    "collection_day": null,
+    "address": "Sutton High Street-Red dog bin between Sutton Village Hall, and footpath to Pegnut Wood",
+    "fill_level": null,
+    "n_bins": 1,
+    "edges": [
+     "BIN38",
+     "BIN5",
+     "BIN0",
+     "BIN34",
+     "BIN10",
+     "BIN14",
+     "BIN30",
+     "BIN1",
+     "BIN2",
+     "BIN29",
+     "BIN3",
+     "BIN7",
+     "DP1",
+     "CS0",
+     "CS5",
+     "CS1",
+     "CS2",
+     "CS4"
+    ],
+    "service_time": 0.04,
+    "weight": 2.5
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.216994,
+     52.1114188
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "type": "bin",
+    "id": "BIN21",
+    "subgroup": "SG19",
+    "collection_day": null,
+    "address": null,
+    "fill_level": null,
+    "n_bins": 1,
+    "edges": [
+     "BIN35",
+     "BIN32",
+     "BIN39",
+     "BIN23",
+     "BIN42",
+     "BIN43",
+     "BIN15",
+     "BIN31",
+     "BIN22",
+     "BIN40",
+     "BIN9",
+     "BIN17",
+     "DP1",
+     "BIN6",
+     "BIN13",
+     "BIN4",
+     "BIN1",
+     "CS5",
+     "CS0",
+     "CS1",
+     "CS2",
+     "CS4"
+    ],
+    "service_time": 0.04,
+    "weight": 2.5
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.2201386,
+     52.1311561
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "type": "bin",
+    "id": "BIN22",
+    "subgroup": "SG19",
+    "collection_day": null,
+    "address": "Sandy Road/Shannon Place-Green bin by bench",
+    "fill_level": null,
+    "n_bins": 1,
+    "edges": [
+     "BIN28",
+     "BIN24",
+     "BIN11",
+     "BIN37",
+     "BIN27",
+     "BIN9",
+     "BIN10",
+     "BIN14",
+     "BIN13",
+     "BIN21",
+     "BIN31",
+     "BIN19",
+     "DP1",
+     "BIN42",
+     "BIN29",
+     "BIN3",
+     "BIN7",
+     "BIN8",
+     "BIN34",
+     "BIN40",
+     "BIN30",
+     "BIN43",
+     "BIN6",
+     "BIN16",
+     "BIN36",
+     "BIN0",
+     "BIN32",
+     "BIN41",
+     "BIN25",
+     "CS5",
+     "CS0",
+     "CS1",
+     "CS2",
+     "CS4"
+    ],
+    "service_time": 0.04,
+    "weight": 2.5
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.2204703,
+     52.1277762
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "type": "bin",
+    "id": "BIN23",
+    "subgroup": "SG19",
+    "collection_day": null,
+    "address": "Garden Fields-In play area",
+    "fill_level": null,
+    "n_bins": 1,
+    "edges": [
+     "BIN35",
+     "BIN17",
+     "BIN9",
+     "BIN32",
+     "BIN39",
+     "BIN6",
+     "BIN42",
+     "BIN13",
+     "BIN4",
+     "BIN37",
+     "BIN43",
+     "BIN33",
+     "BIN12",
+     "DP1",
+     "BIN1",
+     "BIN28",
+     "BIN11",
+     "BIN10",
+     "BIN27",
+     "BIN29",
+     "BIN3",
+     "BIN7",
+     "BIN8",
+     "BIN34",
+     "BIN30",
+     "BIN16",
+     "CS5",
+     "CS0",
+     "CS1",
+     "CS2",
+     "CS4"
+    ],
+    "service_time": 0.04,
+    "weight": 2.5
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.2198656,
+     52.1334824
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "type": "bin",
+    "id": "BIN24",
+    "subgroup": "SG19",
+    "collection_day": null,
+    "address": "Willow Road-Black dog bin by Burgoyne Court",
+    "fill_level": null,
+    "n_bins": 1,
+    "edges": [
+     "BIN37",
+     "BIN9",
+     "BIN21",
+     "BIN35",
+     "BIN12",
+     "BIN6",
+     "BIN33",
+     "BIN17",
+     "BIN32",
+     "BIN39",
+     "BIN28",
+     "BIN13",
+     "DP1",
+     "CS5",
+     "CS0",
+     "CS1",
+     "CS2",
+     "CS4"
+    ],
+    "service_time": 0.04,
+    "weight": 2.5
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.2184583,
+     52.1297244
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "type": "bin",
+    "id": "BIN25",
+    "subgroup": "SG19",
+    "collection_day": null,
+    "address": null,
+    "fill_level": null,
+    "n_bins": 1,
+    "edges": [
+     "BIN41",
+     "BIN26",
+     "BIN31",
+     "BIN15",
+     "BIN22",
+     "BIN42",
+     "BIN40",
+     "BIN43",
+     "BIN28",
+     "BIN36",
+     "BIN32",
+     "BIN39",
+     "DP1",
+     "BIN20",
+     "CS5",
+     "CS0",
+     "CS1",
+     "CS2",
+     "CS4"
+    ],
+    "service_time": 0.04,
+    "weight": 2.5
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.2388818,
+     52.1308032
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "type": "bin",
+    "id": "BIN26",
+    "subgroup": "SG19",
+    "collection_day": null,
+    "address": "Sandy Road-Opposite no 79. Red dog bin",
+    "fill_level": null,
+    "n_bins": 1,
+    "edges": [
+     "BIN31",
+     "BIN15",
+     "BIN22",
+     "BIN42",
+     "BIN40",
+     "BIN43",
+     "BIN28",
+     "BIN36",
+     "BIN32",
+     "BIN39",
+     "BIN24",
+     "BIN11",
+     "DP1",
+     "CS5",
+     "CS0",
+     "CS1",
+     "CS2",
+     "CS4"
+    ],
+    "service_time": 0.04,
+    "weight": 2.5
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.2254748,
+     52.1278128
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "type": "bin",
+    "id": "BIN27",
+    "subgroup": "SG19",
+    "collection_day": null,
+    "address": "Biggleswade Road-Green bin opposite petrol station by bus stop",
+    "fill_level": null,
+    "n_bins": 1,
+    "edges": [
+     "BIN24",
+     "BIN10",
+     "BIN14",
+     "BIN13",
+     "BIN11",
+     "BIN28",
+     "BIN37",
+     "BIN31",
+     "BIN9",
+     "BIN29",
+     "BIN42",
+     "BIN3",
+     "BIN7",
+     "DP1",
+     "BIN8",
+     "BIN34",
+     "BIN30",
+     "BIN40",
+     "BIN6",
+     "BIN43",
+     "BIN16",
+     "BIN12",
+     "BIN0",
+     "BIN36",
+     "BIN33",
+     "BIN17",
+     "BIN32",
+     "BIN4",
+     "BIN1",
+     "BIN41",
+     "BIN25",
+     "CS5",
+     "CS0",
+     "CS1",
+     "CS2",
+     "CS4"
+    ],
+    "service_time": 0.04,
+    "weight": 2.5
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.2179387,
+     52.1261656
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "type": "bin",
+    "id": "BIN28",
+    "subgroup": "SG19",
+    "collection_day": null,
+    "address": "Biggleswade Road/Blackbird Street-Black bin opposite Royal Oak Pub. Is liable to moving about the pavement",
+    "fill_level": null,
+    "n_bins": 1,
+    "edges": [
+     "BIN27",
+     "BIN19",
+     "BIN24",
+     "BIN10",
+     "BIN14",
+     "BIN13",
+     "BIN11",
+     "BIN37",
+     "BIN31",
+     "BIN9",
+     "BIN29",
+     "BIN42",
+     "DP1",
+     "CS5",
+     "CS0",
+     "CS1",
+     "CS2",
+     "CS4"
+    ],
+    "service_time": 0.04,
+    "weight": 2.5
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.2170904,
+     52.1267
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "type": "bin",
+    "id": "BIN29",
+    "subgroup": "SG19",
+    "collection_day": null,
+    "address": "Brook End car park-Green bin by entrance",
+    "fill_level": null,
+    "n_bins": 1,
+    "edges": [
+     "BIN10",
+     "BIN14",
+     "BIN28",
+     "BIN34",
+     "BIN30",
+     "BIN0",
+     "BIN13",
+     "BIN24",
+     "BIN27",
+     "BIN6",
+     "BIN11",
+     "BIN19",
+     "DP1",
+     "BIN31",
+     "BIN42",
+     "BIN40",
+     "BIN12",
+     "BIN43",
+     "BIN36",
+     "BIN32",
+     "BIN41",
+     "BIN25",
+     "CS5",
+     "CS0",
+     "CS1",
+     "CS2",
+     "CS4"
+    ],
+    "service_time": 0.04,
+    "weight": 2.5
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.2119298,
+     52.1269847
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "type": "bin",
+    "id": "BIN30",
+    "subgroup": "SG19",
+    "collection_day": null,
+    "address": null,
+    "fill_level": null,
+    "n_bins": 1,
+    "edges": [
+     "BIN34",
+     "BIN10",
+     "BIN14",
+     "BIN0",
+     "BIN29",
+     "BIN3",
+     "BIN7",
+     "BIN8",
+     "BIN28",
+     "BIN18",
+     "BIN13",
+     "BIN16",
+     "DP1",
+     "CS5",
+     "CS0",
+     "CS1",
+     "CS2",
+     "CS4"
+    ],
+    "service_time": 0.04,
+    "weight": 2.5
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.2110783,
+     52.1249632
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "type": "bin",
+    "id": "BIN31",
+    "subgroup": "SG19",
+    "collection_day": null,
+    "address": "Sutton Mill Road-Outside Bowls Club",
+    "fill_level": null,
+    "n_bins": 1,
+    "edges": [
+     "BIN40",
+     "BIN15",
+     "BIN22",
+     "BIN42",
+     "BIN43",
+     "BIN28",
+     "BIN36",
+     "BIN32",
+     "BIN39",
+     "BIN24",
+     "BIN11",
+     "BIN37",
+     "DP1",
+     "BIN41",
+     "BIN25",
+     "CS5",
+     "CS0",
+     "CS1",
+     "CS2",
+     "CS4"
+    ],
+    "service_time": 0.04,
+    "weight": 2.5
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.2242401,
+     52.1271222
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "type": "bin",
+    "id": "BIN32",
+    "subgroup": "SG19",
+    "collection_day": null,
+    "address": "Mill Lane-By Pavilion/Playground entrance",
+    "fill_level": null,
+    "n_bins": 1,
+    "edges": [
+     "BIN39",
+     "BIN36",
+     "BIN42",
+     "BIN43",
+     "BIN9",
+     "BIN15",
+     "BIN31",
+     "BIN22",
+     "BIN23",
+     "BIN40",
+     "BIN37",
+     "BIN28",
+     "DP1",
+     "CS5",
+     "CS0",
+     "CS1",
+     "CS2",
+     "CS4"
+    ],
+    "service_time": 0.04,
+    "weight": 2.5
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.2251666,
+     52.1317921
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "type": "bin",
+    "id": "BIN33",
+    "subgroup": "SG19",
+    "collection_day": null,
+    "address": null,
+    "fill_level": null,
+    "n_bins": 1,
+    "edges": [
+     "BIN23",
+     "BIN35",
+     "BIN9",
+     "BIN32",
+     "BIN39",
+     "BIN17",
+     "BIN42",
+     "BIN6",
+     "BIN37",
+     "BIN43",
+     "BIN13",
+     "BIN12",
+     "DP1",
+     "BIN28",
+     "BIN11",
+     "CS5",
+     "CS0",
+     "CS1",
+     "CS2",
+     "CS4"
+    ],
+    "service_time": 0.04,
+    "weight": 2.5
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.2143339,
+     52.1327034
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "type": "bin",
+    "id": "BIN34",
+    "subgroup": "SG19",
+    "collection_day": null,
+    "address": "Sheepwalk Close-Red dog bin by open space",
+    "fill_level": null,
+    "n_bins": 1,
+    "edges": [
+     "BIN10",
+     "BIN14",
+     "BIN0",
+     "BIN29",
+     "BIN3",
+     "BIN7",
+     "BIN8",
+     "BIN28",
+     "BIN18",
+     "BIN13",
+     "BIN16",
+     "BIN24",
+     "DP1",
+     "BIN11",
+     "BIN33",
+     "BIN17",
+     "BIN31",
+     "BIN42",
+     "BIN40",
+     "BIN43",
+     "BIN12",
+     "BIN36",
+     "BIN32",
+     "BIN41",
+     "BIN25",
+     "CS5",
+     "CS0",
+     "CS1",
+     "CS2",
+     "CS4"
+    ],
+    "service_time": 0.04,
+    "weight": 2.5
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.2114457,
+     52.1254794
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "type": "bin",
+    "id": "BIN35",
+    "subgroup": "SG19",
+    "collection_day": null,
+    "address": "Mill Lane-Green bin by end of alleyway",
+    "fill_level": null,
+    "n_bins": 1,
+    "edges": [
+     "BIN32",
+     "BIN39",
+     "BIN42",
+     "BIN43",
+     "BIN15",
+     "BIN31",
+     "BIN22",
+     "BIN40",
+     "BIN36",
+     "BIN28",
+     "BIN24",
+     "BIN11",
+     "DP1",
+     "BIN41",
+     "BIN25",
+     "CS5",
+     "CS0",
+     "CS1",
+     "CS2",
+     "CS4"
+    ],
+    "service_time": 0.04,
+    "weight": 2.5
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.2219197,
+     52.131182
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "type": "bin",
+    "id": "BIN36",
+    "subgroup": "SG19",
+    "collection_day": null,
+    "address": "Mill Lane-Green bin by bus stop",
+    "fill_level": null,
+    "n_bins": 1,
+    "edges": [
+     "BIN9",
+     "BIN23",
+     "BIN37",
+     "BIN35",
+     "BIN12",
+     "BIN21",
+     "BIN6",
+     "BIN33",
+     "BIN28",
+     "BIN11",
+     "BIN13",
+     "BIN4",
+     "DP1",
+     "BIN31",
+     "BIN40",
+     "BIN30",
+     "BIN41",
+     "BIN25",
+     "CS5",
+     "CS0",
+     "CS1",
+     "CS2",
+     "CS4"
+    ],
+    "service_time": 0.04,
+    "weight": 2.5
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.2223757,
+     52.1312746
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "type": "bin",
+    "id": "BIN37",
+    "subgroup": "SG19",
+    "collection_day": null,
+    "address": "Everton Road-Red dog bin near junction with Willow Road",
+    "fill_level": null,
+    "n_bins": 1,
+    "edges": [
+     "BIN21",
+     "BIN35",
+     "BIN32",
+     "BIN39",
+     "BIN23",
+     "BIN42",
+     "BIN43",
+     "BIN15",
+     "BIN31",
+     "BIN22",
+     "BIN40",
+     "BIN9",
+     "DP1",
+     "CS5",
+     "CS0",
+     "CS1",
+     "CS2",
+     "CS4"
+    ],
+    "service_time": 0.04,
+    "weight": 2.5
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.2176375,
+     52.1312787
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "type": "bin",
+    "id": "BIN38",
+    "subgroup": "SG19",
+    "collection_day": null,
+    "address": "Sutton High Street-Green litter bin between Sutton Village Hall, and footpath to Pegnut Wood",
+    "fill_level": null,
+    "n_bins": 1,
+    "edges": [
+     "BIN5",
+     "BIN0",
+     "BIN34",
+     "BIN10",
+     "BIN14",
+     "BIN30",
+     "BIN1",
+     "BIN2",
+     "BIN29",
+     "BIN3",
+     "BIN7",
+     "BIN8",
+     "DP1",
+     "CS0",
+     "CS5",
+     "CS1",
+     "CS2",
+     "CS4"
+    ],
+    "service_time": 0.04,
+    "weight": 2.5
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.2169149,
+     52.1114155
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "type": "bin",
+    "id": "BIN39",
+    "subgroup": "SG19",
+    "collection_day": null,
+    "address": "Mill Lane-Green bin by Pavilion/Playground entrance",
+    "fill_level": null,
+    "n_bins": 1,
+    "edges": [
+     "BIN36",
+     "BIN42",
+     "BIN43",
+     "BIN9",
+     "BIN15",
+     "BIN31",
+     "BIN22",
+     "BIN23",
+     "BIN40",
+     "BIN37",
+     "BIN32",
+     "BIN28",
+     "DP1",
+     "BIN41",
+     "BIN25",
+     "CS5",
+     "CS0",
+     "CS1",
+     "CS2",
+     "CS4"
+    ],
+    "service_time": 0.04,
+    "weight": 2.5
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.2250848,
+     52.1317666
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "type": "bin",
+    "id": "BIN40",
+    "subgroup": "SG19",
+    "collection_day": null,
+    "address": "Sutton Mill Road-By horse field on unpaved bridleway",
+    "fill_level": null,
+    "n_bins": 1,
+    "edges": [
+     "BIN31",
+     "BIN15",
+     "BIN22",
+     "BIN42",
+     "BIN43",
+     "BIN28",
+     "BIN36",
+     "BIN32",
+     "BIN39",
+     "BIN24",
+     "BIN11",
+     "BIN37",
+     "DP1",
+     "BIN41",
+     "BIN25",
+     "CS5",
+     "CS0",
+     "CS1",
+     "CS2",
+     "CS4"
+    ],
+    "service_time": 0.04,
+    "weight": 2.5
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.224629,
+     52.1245196
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "type": "bin",
+    "id": "BIN41",
+    "subgroup": "SG19",
+    "collection_day": null,
+    "address": "Sandy Transmitter-Bin is opposite the car parking area",
+    "fill_level": null,
+    "n_bins": 2,
+    "edges": [
+     "BIN25",
+     "BIN26",
+     "BIN31",
+     "BIN15",
+     "BIN22",
+     "BIN42",
+     "BIN40",
+     "BIN43",
+     "BIN28",
+     "BIN36",
+     "BIN32",
+     "BIN39",
+     "DP1",
+     "BIN20",
+     "BIN38",
+     "CS5",
+     "CS0",
+     "CS1",
+     "CS2",
+     "CS4"
+    ],
+    "service_time": 0.08,
+    "weight": 5.0
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.2388888,
+     52.1308567
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "type": "bin",
+    "id": "BIN42",
+    "subgroup": "SG19",
+    "collection_day": null,
+    "address": "Festival Road-green dog bin on grass area",
+    "fill_level": null,
+    "n_bins": 1,
+    "edges": [
+     "BIN43",
+     "BIN36",
+     "BIN15",
+     "BIN31",
+     "BIN32",
+     "BIN39",
+     "BIN22",
+     "BIN40",
+     "BIN28",
+     "BIN9",
+     "BIN24",
+     "BIN23",
+     "DP1",
+     "BIN41",
+     "BIN25",
+     "CS5",
+     "CS0",
+     "CS1",
+     "CS2",
+     "CS4"
+    ],
+    "service_time": 0.04,
+    "weight": 2.5
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.2227045,
+     52.1294244
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "type": "bin",
+    "id": "BIN43",
+    "subgroup": "SG19",
+    "collection_day": null,
+    "address": null,
+    "fill_level": null,
+    "n_bins": 1,
+    "edges": [
+     "BIN42",
+     "BIN36",
+     "BIN15",
+     "BIN31",
+     "BIN32",
+     "BIN39",
+     "BIN22",
+     "BIN40",
+     "BIN28",
+     "BIN9",
+     "BIN24",
+     "BIN23",
+     "DP1",
+     "BIN41",
+     "BIN25",
+     "CS5",
+     "CS0",
+     "CS1",
+     "CS2",
+     "CS4"
+    ],
+    "service_time": 0.04,
+    "weight": 2.5
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.2274005,
+     52.129556
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.20305141118240044,
+     52.013915531730305
+    ]
+   },
+   "properties": {
+    "type": "CS",
+    "id": "CS0",
+    "title": "IONITY Baldock",
+    "cs_type": 3,
+    "bay": 6,
+    "address": "ExtraMSA Baldock Services,North Hertfordshire,Hertfordshire",
+    "subgroup": "SG7",
+    "edges": [
+     "BIN0",
+     "BIN1",
+     "BIN2",
+     "BIN3",
+     "BIN4",
+     "BIN5",
+     "BIN6",
+     "BIN7",
+     "BIN8",
+     "BIN9",
+     "BIN10",
+     "BIN11",
+     "BIN12",
+     "BIN13",
+     "BIN14",
+     "BIN15",
+     "BIN16",
+     "BIN17",
+     "BIN18",
+     "BIN19",
+     "BIN20",
+     "BIN21",
+     "BIN22",
+     "BIN23",
+     "BIN24",
+     "BIN25",
+     "BIN26",
+     "BIN27",
+     "BIN28",
+     "BIN29",
+     "BIN30",
+     "BIN31",
+     "BIN32",
+     "BIN33",
+     "BIN34",
+     "BIN35",
+     "BIN36",
+     "BIN37",
+     "BIN38",
+     "BIN39",
+     "BIN40",
+     "BIN41",
+     "BIN42",
+     "BIN43",
+     "CS1",
+     "CS2",
+     "CS4",
+     "CS5",
+     "DP1"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.661978,
+     52.024315
+    ]
+   },
+   "properties": {
+    "type": "CS",
+    "id": "CS1",
+    "title": "South Lodge Boutique B&B",
+    "cs_type": 2,
+    "bay": 1,
+    "address": "33 Cross End,Wavendon,None",
+    "subgroup": "MK17",
+    "edges": [
+     "BIN0",
+     "BIN1",
+     "BIN2",
+     "BIN3",
+     "BIN4",
+     "BIN5",
+     "BIN6",
+     "BIN7",
+     "BIN8",
+     "BIN9",
+     "BIN10",
+     "BIN11",
+     "BIN12",
+     "BIN13",
+     "BIN14",
+     "BIN15",
+     "BIN16",
+     "BIN17",
+     "BIN18",
+     "BIN19",
+     "BIN20",
+     "BIN21",
+     "BIN22",
+     "BIN23",
+     "BIN24",
+     "BIN25",
+     "BIN26",
+     "BIN27",
+     "BIN28",
+     "BIN29",
+     "BIN30",
+     "BIN31",
+     "BIN32",
+     "BIN33",
+     "BIN34",
+     "BIN35",
+     "BIN36",
+     "BIN37",
+     "BIN38",
+     "BIN39",
+     "BIN40",
+     "BIN41",
+     "BIN42",
+     "BIN43",
+     "CS0",
+     "CS2",
+     "CS4",
+     "CS5",
+     "DP1"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.373728,
+     51.877474
+    ]
+   },
+   "properties": {
+    "type": "CS",
+    "id": "CS2",
+    "title": "London Luton Airport",
+    "cs_type": 2,
+    "bay": 6,
+    "address": "London Luton Multi-Storey Car Park,Luton,None",
+    "subgroup": "LU2",
+    "edges": [
+     "BIN0",
+     "BIN1",
+     "BIN2",
+     "BIN3",
+     "BIN4",
+     "BIN5",
+     "BIN6",
+     "BIN7",
+     "BIN8",
+     "BIN9",
+     "BIN10",
+     "BIN11",
+     "BIN12",
+     "BIN13",
+     "BIN14",
+     "BIN15",
+     "BIN16",
+     "BIN17",
+     "BIN18",
+     "BIN19",
+     "BIN20",
+     "BIN21",
+     "BIN22",
+     "BIN23",
+     "BIN24",
+     "BIN25",
+     "BIN26",
+     "BIN27",
+     "BIN28",
+     "BIN29",
+     "BIN30",
+     "BIN31",
+     "BIN32",
+     "BIN33",
+     "BIN34",
+     "BIN35",
+     "BIN36",
+     "BIN37",
+     "BIN38",
+     "BIN39",
+     "BIN40",
+     "BIN41",
+     "BIN42",
+     "BIN43",
+     "CS0",
+     "CS1",
+     "CS4",
+     "CS5",
+     "DP1"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.327134,
+     51.882058
+    ]
+   },
+   "properties": {
+    "type": "CS",
+    "id": "CS4",
+    "title": "Baileys Farm Bed and Breakfast",
+    "cs_type": 2,
+    "bay": 1,
+    "address": "Baileys Farm Bed and Breakfast,None,None",
+    "subgroup": "SG4",
+    "edges": [
+     "BIN0",
+     "BIN1",
+     "BIN2",
+     "BIN3",
+     "BIN4",
+     "BIN5",
+     "BIN6",
+     "BIN7",
+     "BIN8",
+     "BIN9",
+     "BIN10",
+     "BIN11",
+     "BIN12",
+     "BIN13",
+     "BIN14",
+     "BIN15",
+     "BIN16",
+     "BIN17",
+     "BIN18",
+     "BIN19",
+     "BIN20",
+     "BIN21",
+     "BIN22",
+     "BIN23",
+     "BIN24",
+     "BIN25",
+     "BIN26",
+     "BIN27",
+     "BIN28",
+     "BIN29",
+     "BIN30",
+     "BIN31",
+     "BIN32",
+     "BIN33",
+     "BIN34",
+     "BIN35",
+     "BIN36",
+     "BIN37",
+     "BIN38",
+     "BIN39",
+     "BIN40",
+     "BIN41",
+     "BIN42",
+     "BIN43",
+     "CS0",
+     "CS1",
+     "CS2",
+     "CS5",
+     "DP1"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.27668,
+     52.031714
+    ]
+   },
+   "properties": {
+    "type": "CS",
+    "id": "CS5",
+    "title": "Champneys Henlow",
+    "cs_type": 2,
+    "bay": 2,
+    "address": "Champneys Henlow,Henlow,Bedfordshire",
+    "subgroup": "SG16",
+    "edges": [
+     "BIN0",
+     "BIN1",
+     "BIN2",
+     "BIN3",
+     "BIN4",
+     "BIN5",
+     "BIN6",
+     "BIN7",
+     "BIN8",
+     "BIN9",
+     "BIN10",
+     "BIN11",
+     "BIN12",
+     "BIN13",
+     "BIN14",
+     "BIN15",
+     "BIN16",
+     "BIN17",
+     "BIN18",
+     "BIN19",
+     "BIN20",
+     "BIN21",
+     "BIN22",
+     "BIN23",
+     "BIN24",
+     "BIN25",
+     "BIN26",
+     "BIN27",
+     "BIN28",
+     "BIN29",
+     "BIN30",
+     "BIN31",
+     "BIN32",
+     "BIN33",
+     "BIN34",
+     "BIN35",
+     "BIN36",
+     "BIN37",
+     "BIN38",
+     "BIN39",
+     "BIN40",
+     "BIN41",
+     "BIN42",
+     "BIN43",
+     "CS0",
+     "CS1",
+     "CS2",
+     "CS4",
+     "DP1"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.41479688269127024,
+     52.15095722778248
+    ]
+   },
+   "properties": {
+    "type": "depot",
+    "id": "DP1",
+    "title": "FCC Environment",
+    "n_vehicles": null,
+    "address": "Stratton Way, Bedford",
+    "subgroup": "MK41",
+    "edges": [
+     "BIN0",
+     "BIN1",
+     "BIN2",
+     "BIN3",
+     "BIN4",
+     "BIN5",
+     "BIN6",
+     "BIN7",
+     "BIN8",
+     "BIN9",
+     "BIN10",
+     "BIN11",
+     "BIN12",
+     "BIN13",
+     "BIN14",
+     "BIN15",
+     "BIN16",
+     "BIN17",
+     "BIN18",
+     "BIN19",
+     "BIN20",
+     "BIN21",
+     "BIN22",
+     "BIN23",
+     "BIN24",
+     "BIN25",
+     "BIN26",
+     "BIN27",
+     "BIN28",
+     "BIN29",
+     "BIN30",
+     "BIN31",
+     "BIN32",
+     "BIN33",
+     "BIN34",
+     "BIN35",
+     "BIN36",
+     "BIN37",
+     "BIN38",
+     "BIN39",
+     "BIN40",
+     "BIN41",
+     "BIN42",
+     "BIN43",
+     "CS0",
+     "CS1",
+     "CS2",
+     "CS4",
+     "CS5"
+    ]
+   }
+  }
+ ]
+}

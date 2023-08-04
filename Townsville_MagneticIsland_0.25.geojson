@@ -1,0 +1,1811 @@
+{
+ "type": "FeatureCollection",
+ "crs": {
+  "properties": {
+   "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+  },
+  "type": "name"
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "type": "bin",
+    "id": "BIN20",
+    "subgroup": "4819",
+    "collection_day": null,
+    "address": "Lions Park",
+    "fill_level": null,
+    "n_bins": 1,
+    "edges": [
+     "BIN41",
+     "BIN94",
+     "BIN81",
+     "BIN91",
+     "BIN197",
+     "BIN221",
+     "BIN59",
+     "BIN219",
+     "BIN64",
+     "BIN32",
+     "BIN22",
+     "BIN103",
+     "BIN74",
+     "DP3",
+     "CS1"
+    ],
+    "service_time": 0.04,
+    "weight": 2.5
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     146.85330733,
+     -19.15709844
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "type": "bin",
+    "id": "BIN22",
+    "subgroup": "4819",
+    "collection_day": null,
+    "address": "Alma Bay Park",
+    "fill_level": null,
+    "n_bins": 1,
+    "edges": [
+     "BIN103",
+     "BIN23",
+     "BIN61",
+     "BIN219",
+     "BIN64",
+     "BIN32",
+     "BIN74",
+     "BIN70",
+     "BIN89",
+     "BIN98",
+     "BIN79",
+     "BIN97",
+     "DP3",
+     "CS1"
+    ],
+    "service_time": 0.04,
+    "weight": 2.5
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     146.86847654,
+     -19.14807804
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "type": "bin",
+    "id": "BIN23",
+    "subgroup": "4819",
+    "collection_day": null,
+    "address": "Alma Bay Park",
+    "fill_level": null,
+    "n_bins": 1,
+    "edges": [
+     "BIN61",
+     "BIN219",
+     "BIN64",
+     "BIN32",
+     "BIN74",
+     "BIN70",
+     "BIN89",
+     "BIN98",
+     "BIN79",
+     "BIN97",
+     "BIN57",
+     "BIN22",
+     "DP3",
+     "CS1"
+    ],
+    "service_time": 0.04,
+    "weight": 2.5
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     146.86828494,
+     -19.14855423
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "type": "bin",
+    "id": "BIN29",
+    "subgroup": "4819",
+    "collection_day": null,
+    "address": "Horseshoe Bay Park",
+    "fill_level": null,
+    "n_bins": 1,
+    "edges": [
+     "BIN45",
+     "BIN62",
+     "BIN90",
+     "BIN114",
+     "BIN199",
+     "BIN115",
+     "BIN107",
+     "BIN35",
+     "BIN48",
+     "BIN110",
+     "BIN157",
+     "CS1",
+     "DP3"
+    ],
+    "service_time": 0.04,
+    "weight": 2.5
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     146.85887369,
+     -19.1180336
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "type": "bin",
+    "id": "BIN32",
+    "subgroup": "4819",
+    "collection_day": null,
+    "address": "Hayles Avenue",
+    "fill_level": null,
+    "n_bins": 1,
+    "edges": [
+     "BIN79",
+     "BIN97",
+     "BIN57",
+     "BIN89",
+     "BIN98",
+     "BIN22",
+     "BIN103",
+     "BIN23",
+     "BIN61",
+     "BIN219",
+     "BIN64",
+     "BIN74",
+     "DP3",
+     "CS1"
+    ],
+    "service_time": 0.04,
+    "weight": 2.5
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     146.86741049,
+     -19.14776757
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "type": "bin",
+    "id": "BIN33",
+    "subgroup": "4819",
+    "collection_day": null,
+    "address": "Picnic Bay Mall",
+    "fill_level": null,
+    "n_bins": 1,
+    "edges": [
+     "BIN163",
+     "BIN113",
+     "BIN108",
+     "BIN198",
+     "BIN142",
+     "BIN50",
+     "DP3",
+     "BIN58",
+     "BIN221",
+     "BIN41",
+     "BIN94",
+     "BIN91",
+     "CS1"
+    ],
+    "service_time": 0.04,
+    "weight": 2.5
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     146.83897913,
+     -19.17929609
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "type": "bin",
+    "id": "BIN35",
+    "subgroup": "4819",
+    "collection_day": null,
+    "address": "Horseshoe Bay Park",
+    "fill_level": null,
+    "n_bins": 1,
+    "edges": [
+     "BIN48",
+     "BIN110",
+     "BIN90",
+     "BIN114",
+     "BIN29",
+     "BIN45",
+     "BIN62",
+     "BIN157",
+     "CS1",
+     "BIN46",
+     "BIN39",
+     "BIN199",
+     "DP3"
+    ],
+    "service_time": 0.04,
+    "weight": 2.5
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     146.86177237,
+     -19.11695725
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "type": "bin",
+    "id": "BIN39",
+    "subgroup": "4819",
+    "collection_day": null,
+    "address": "The Forts Horseshoe Bay",
+    "fill_level": null,
+    "n_bins": 1,
+    "edges": [
+     "BIN22",
+     "BIN103",
+     "BIN32",
+     "BIN23",
+     "BIN61",
+     "BIN219",
+     "BIN90",
+     "BIN64",
+     "BIN114",
+     "BIN199",
+     "BIN115",
+     "BIN107",
+     "DP3",
+     "BIN29",
+     "CS1",
+     "BIN43"
+    ],
+    "service_time": 0.04,
+    "weight": 2.5
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     146.8690113,
+     -19.13244659
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "type": "bin",
+    "id": "BIN41",
+    "subgroup": "4819",
+    "collection_day": null,
+    "address": "Nelly Bay Esplanade Park",
+    "fill_level": null,
+    "n_bins": 1,
+    "edges": [
+     "BIN94",
+     "BIN221",
+     "BIN91",
+     "BIN197",
+     "BIN81",
+     "BIN20",
+     "BIN59",
+     "BIN33",
+     "BIN163",
+     "BIN219",
+     "BIN64",
+     "BIN113",
+     "DP3",
+     "CS1"
+    ],
+    "service_time": 0.04,
+    "weight": 2.5
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     146.85032798,
+     -19.16057484
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "type": "bin",
+    "id": "BIN43",
+    "subgroup": "4819",
+    "collection_day": null,
+    "address": "Pollard Street",
+    "fill_level": null,
+    "n_bins": 1,
+    "edges": [
+     "BIN90",
+     "BIN114",
+     "BIN199",
+     "BIN115",
+     "BIN39",
+     "BIN107",
+     "BIN35",
+     "BIN29",
+     "BIN48",
+     "BIN45",
+     "BIN62",
+     "BIN110",
+     "DP3",
+     "CS1",
+     "BIN22",
+     "BIN32"
+    ],
+    "service_time": 0.04,
+    "weight": 2.5
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     146.84291842,
+     -19.11658524
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "type": "bin",
+    "id": "BIN45",
+    "subgroup": "4819",
+    "collection_day": null,
+    "address": "Horseshoe Bay Park",
+    "fill_level": null,
+    "n_bins": 1,
+    "edges": [
+     "BIN62",
+     "BIN90",
+     "BIN114",
+     "BIN199",
+     "BIN115",
+     "BIN107",
+     "BIN35",
+     "BIN48",
+     "BIN110",
+     "BIN157",
+     "BIN29",
+     "CS1",
+     "DP3",
+     "BIN33"
+    ],
+    "service_time": 0.04,
+    "weight": 2.5
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     146.85925158,
+     -19.11791645
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "type": "bin",
+    "id": "BIN46",
+    "subgroup": "4819",
+    "collection_day": null,
+    "address": "Horseshoe Bay Sport and Recreation Reserve",
+    "fill_level": null,
+    "n_bins": 1,
+    "edges": [
+     "BIN39",
+     "BIN90",
+     "BIN114",
+     "BIN199",
+     "BIN115",
+     "BIN107",
+     "BIN35",
+     "BIN29",
+     "BIN48",
+     "BIN45",
+     "BIN62",
+     "BIN110",
+     "DP3",
+     "BIN22",
+     "BIN32",
+     "BIN43",
+     "BIN33",
+     "CS1"
+    ],
+    "service_time": 0.04,
+    "weight": 2.5
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     146.86246806,
+     -19.12495812
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "type": "bin",
+    "id": "BIN48",
+    "subgroup": "4819",
+    "collection_day": null,
+    "address": "Horseshoe Bay Park",
+    "fill_level": null,
+    "n_bins": 1,
+    "edges": [
+     "BIN110",
+     "BIN90",
+     "BIN114",
+     "BIN29",
+     "BIN45",
+     "BIN62",
+     "BIN157",
+     "CS1",
+     "BIN46",
+     "BIN39",
+     "BIN199",
+     "BIN115",
+     "DP3"
+    ],
+    "service_time": 0.04,
+    "weight": 2.5
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     146.86209792,
+     -19.11692363
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "type": "bin",
+    "id": "BIN50",
+    "subgroup": "4819",
+    "collection_day": null,
+    "address": "Picnic Bay Foreshore",
+    "fill_level": null,
+    "n_bins": 1,
+    "edges": [
+     "BIN142",
+     "BIN113",
+     "BIN108",
+     "BIN198",
+     "BIN33",
+     "BIN163",
+     "DP3",
+     "BIN58",
+     "BIN221",
+     "BIN41",
+     "BIN94",
+     "BIN91",
+     "CS1"
+    ],
+    "service_time": 0.04,
+    "weight": 2.5
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     146.83782129,
+     -19.18017798
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "type": "bin",
+    "id": "BIN57",
+    "subgroup": "4819",
+    "collection_day": null,
+    "address": "Bright Avenue",
+    "fill_level": null,
+    "n_bins": 1,
+    "edges": [
+     "BIN89",
+     "BIN98",
+     "BIN219",
+     "BIN64",
+     "BIN32",
+     "BIN74",
+     "BIN20",
+     "BIN70",
+     "BIN79",
+     "BIN97",
+     "BIN41",
+     "BIN94",
+     "DP3",
+     "CS1"
+    ],
+    "service_time": 0.04,
+    "weight": 2.5
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     146.86159308,
+     -19.15223051
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "type": "bin",
+    "id": "BIN58",
+    "subgroup": "4819",
+    "collection_day": null,
+    "address": "Nelly Bay Road",
+    "fill_level": null,
+    "n_bins": 1,
+    "edges": [
+     "BIN221",
+     "BIN41",
+     "BIN94",
+     "BIN91",
+     "BIN81",
+     "BIN197",
+     "BIN20",
+     "BIN59",
+     "BIN219",
+     "BIN64",
+     "BIN32",
+     "BIN22",
+     "DP3",
+     "BIN74",
+     "CS1"
+    ],
+    "service_time": 0.04,
+    "weight": 2.5
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     146.84658976,
+     -19.17040234
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "type": "bin",
+    "id": "BIN59",
+    "subgroup": "4819",
+    "collection_day": null,
+    "address": "Nelly Bay Road",
+    "fill_level": null,
+    "n_bins": 1,
+    "edges": [
+     "BIN33",
+     "BIN163",
+     "BIN113",
+     "BIN108",
+     "BIN198",
+     "BIN142",
+     "BIN50",
+     "DP3",
+     "BIN58",
+     "BIN221",
+     "BIN41",
+     "BIN94",
+     "CS1"
+    ],
+    "service_time": 0.04,
+    "weight": 2.5
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     146.84359349,
+     -19.17406472
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "type": "bin",
+    "id": "BIN61",
+    "subgroup": "4819",
+    "collection_day": null,
+    "address": "Alma Bay Park",
+    "fill_level": null,
+    "n_bins": 1,
+    "edges": [
+     "BIN219",
+     "BIN64",
+     "BIN32",
+     "BIN74",
+     "BIN70",
+     "BIN89",
+     "BIN98",
+     "BIN79",
+     "BIN97",
+     "BIN57",
+     "BIN22",
+     "BIN103",
+     "DP3",
+     "CS1"
+    ],
+    "service_time": 0.04,
+    "weight": 2.5
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     146.86861698,
+     -19.14865777
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "type": "bin",
+    "id": "BIN62",
+    "subgroup": "4819",
+    "collection_day": null,
+    "address": "Horseshoe Bay Park",
+    "fill_level": null,
+    "n_bins": 1,
+    "edges": [
+     "BIN90",
+     "BIN114",
+     "BIN199",
+     "BIN115",
+     "BIN107",
+     "BIN35",
+     "BIN48",
+     "BIN110",
+     "BIN157",
+     "BIN29",
+     "BIN45",
+     "CS1",
+     "DP3"
+    ],
+    "service_time": 0.04,
+    "weight": 2.5
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     146.85971839,
+     -19.11772719
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "type": "bin",
+    "id": "BIN64",
+    "subgroup": "4819",
+    "collection_day": null,
+    "address": "Marine Parade",
+    "fill_level": null,
+    "n_bins": 1,
+    "edges": [
+     "BIN32",
+     "BIN79",
+     "BIN97",
+     "BIN57",
+     "BIN89",
+     "BIN98",
+     "BIN22",
+     "BIN103",
+     "BIN23",
+     "BIN61",
+     "BIN219",
+     "BIN39",
+     "DP3",
+     "BIN90",
+     "BIN199",
+     "BIN29",
+     "CS1",
+     "BIN43"
+    ],
+    "service_time": 0.04,
+    "weight": 2.5
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     146.86750143,
+     -19.14896096
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "type": "bin",
+    "id": "BIN70",
+    "subgroup": "4819",
+    "collection_day": null,
+    "address": "Geoffrey Bay Park",
+    "fill_level": null,
+    "n_bins": 1,
+    "edges": [
+     "BIN89",
+     "BIN98",
+     "BIN22",
+     "BIN103",
+     "BIN23",
+     "BIN61",
+     "BIN20",
+     "BIN79",
+     "BIN97",
+     "BIN57",
+     "BIN41",
+     "BIN94",
+     "DP3",
+     "BIN39",
+     "BIN90",
+     "BIN199",
+     "BIN29",
+     "CS1",
+     "BIN43"
+    ],
+    "service_time": 0.04,
+    "weight": 2.5
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     146.86205811,
+     -19.15277123
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "type": "bin",
+    "id": "BIN74",
+    "subgroup": "4819",
+    "collection_day": null,
+    "address": "Armand Way",
+    "fill_level": null,
+    "n_bins": 1,
+    "edges": [
+     "BIN219",
+     "BIN64",
+     "BIN32",
+     "BIN70",
+     "BIN89",
+     "BIN98",
+     "BIN79",
+     "BIN97",
+     "BIN57",
+     "BIN22",
+     "BIN103",
+     "BIN23",
+     "DP3",
+     "BIN199",
+     "BIN45",
+     "CS1"
+    ],
+    "service_time": 0.04,
+    "weight": 2.5
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     146.86959792,
+     -19.15311026
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "type": "bin",
+    "id": "BIN79",
+    "subgroup": "4819",
+    "collection_day": null,
+    "address": "Mccabe Crescent",
+    "fill_level": null,
+    "n_bins": 1,
+    "edges": [
+     "BIN97",
+     "BIN57",
+     "BIN89",
+     "BIN98",
+     "BIN219",
+     "BIN64",
+     "BIN32",
+     "BIN74",
+     "BIN20",
+     "BIN70",
+     "BIN41",
+     "BIN94",
+     "DP3",
+     "CS1"
+    ],
+    "service_time": 0.04,
+    "weight": 2.5
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     146.86158829,
+     -19.151668
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "type": "bin",
+    "id": "BIN81",
+    "subgroup": "4819",
+    "collection_day": null,
+    "address": "Mandalay Avenue",
+    "fill_level": null,
+    "n_bins": 1,
+    "edges": [
+     "BIN20",
+     "BIN41",
+     "BIN94",
+     "BIN91",
+     "BIN197",
+     "BIN221",
+     "BIN219",
+     "BIN64",
+     "BIN32",
+     "BIN59",
+     "BIN22",
+     "BIN103",
+     "BIN74",
+     "DP3",
+     "CS1"
+    ],
+    "service_time": 0.04,
+    "weight": 2.5
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     146.84971657,
+     -19.15326555
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "type": "bin",
+    "id": "BIN89",
+    "subgroup": "4819",
+    "collection_day": null,
+    "address": "Geoffrey Bay Park",
+    "fill_level": null,
+    "n_bins": 1,
+    "edges": [
+     "BIN98",
+     "BIN20",
+     "BIN41",
+     "BIN94",
+     "BIN81",
+     "BIN91",
+     "BIN197",
+     "BIN221",
+     "BIN219",
+     "BIN64",
+     "BIN32",
+     "BIN22",
+     "DP3",
+     "CS1"
+    ],
+    "service_time": 0.04,
+    "weight": 2.5
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     146.86051114,
+     -19.15438081
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "type": "bin",
+    "id": "BIN90",
+    "subgroup": "4819",
+    "collection_day": null,
+    "address": "Horseshoe Bay Park",
+    "fill_level": null,
+    "n_bins": 1,
+    "edges": [
+     "BIN114",
+     "BIN199",
+     "BIN115",
+     "BIN107",
+     "BIN35",
+     "BIN29",
+     "BIN48",
+     "BIN45",
+     "BIN62",
+     "BIN110",
+     "BIN157",
+     "CS1",
+     "DP3"
+    ],
+    "service_time": 0.04,
+    "weight": 2.5
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     146.86018195,
+     -19.11759868
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "type": "bin",
+    "id": "BIN91",
+    "subgroup": "4819",
+    "collection_day": null,
+    "address": "Nelly Bay Road",
+    "fill_level": null,
+    "n_bins": 1,
+    "edges": [
+     "BIN197",
+     "BIN59",
+     "BIN33",
+     "BIN163",
+     "BIN113",
+     "BIN108",
+     "BIN198",
+     "BIN142",
+     "BIN50",
+     "DP3",
+     "BIN58",
+     "BIN221",
+     "CS1"
+    ],
+    "service_time": 0.04,
+    "weight": 2.5
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     146.84706209,
+     -19.16431692
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "type": "bin",
+    "id": "BIN94",
+    "subgroup": "4819",
+    "collection_day": null,
+    "address": "Nelly Bay Esplanade Park",
+    "fill_level": null,
+    "n_bins": 1,
+    "edges": [
+     "BIN221",
+     "BIN91",
+     "BIN41",
+     "BIN197",
+     "BIN81",
+     "BIN20",
+     "BIN59",
+     "BIN33",
+     "BIN163",
+     "BIN219",
+     "BIN64",
+     "BIN113",
+     "DP3",
+     "CS1"
+    ],
+    "service_time": 0.04,
+    "weight": 2.5
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     146.84961285,
+     -19.16195525
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "type": "bin",
+    "id": "BIN97",
+    "subgroup": "4819",
+    "collection_day": null,
+    "address": "Bright Avenue",
+    "fill_level": null,
+    "n_bins": 1,
+    "edges": [
+     "BIN57",
+     "BIN89",
+     "BIN98",
+     "BIN219",
+     "BIN64",
+     "BIN32",
+     "BIN74",
+     "BIN20",
+     "BIN70",
+     "BIN79",
+     "BIN41",
+     "BIN94",
+     "DP3",
+     "CS1"
+    ],
+    "service_time": 0.04,
+    "weight": 2.5
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     146.86148398,
+     -19.15210181
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "type": "bin",
+    "id": "BIN98",
+    "subgroup": "4819",
+    "collection_day": null,
+    "address": "Marine Parade",
+    "fill_level": null,
+    "n_bins": 1,
+    "edges": [
+     "BIN89",
+     "BIN20",
+     "BIN41",
+     "BIN94",
+     "BIN81",
+     "BIN91",
+     "BIN197",
+     "BIN221",
+     "BIN219",
+     "BIN64",
+     "BIN32",
+     "BIN22",
+     "DP3",
+     "CS1"
+    ],
+    "service_time": 0.04,
+    "weight": 2.5
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     146.86028151,
+     -19.15413062
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "type": "bin",
+    "id": "BIN103",
+    "subgroup": "4819",
+    "collection_day": null,
+    "address": "Alma Bay Park",
+    "fill_level": null,
+    "n_bins": 1,
+    "edges": [
+     "BIN23",
+     "BIN61",
+     "BIN219",
+     "BIN64",
+     "BIN32",
+     "BIN74",
+     "BIN70",
+     "BIN89",
+     "BIN98",
+     "BIN79",
+     "BIN97",
+     "BIN57",
+     "DP3",
+     "CS1"
+    ],
+    "service_time": 0.04,
+    "weight": 2.5
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     146.86874819,
+     -19.14818345
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "type": "bin",
+    "id": "BIN107",
+    "subgroup": "4819",
+    "collection_day": null,
+    "address": "Horseshoe Bay Park",
+    "fill_level": null,
+    "n_bins": 1,
+    "edges": [
+     "BIN35",
+     "BIN48",
+     "BIN110",
+     "BIN90",
+     "BIN114",
+     "BIN29",
+     "BIN45",
+     "BIN62",
+     "BIN157",
+     "CS1",
+     "BIN46",
+     "BIN39",
+     "DP3"
+    ],
+    "service_time": 0.04,
+    "weight": 2.5
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     146.86158357,
+     -19.11710894
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "type": "bin",
+    "id": "BIN108",
+    "subgroup": "4819",
+    "collection_day": null,
+    "address": "Yule Street",
+    "fill_level": null,
+    "n_bins": 1,
+    "edges": [
+     "BIN142",
+     "BIN50",
+     "BIN113",
+     "BIN198",
+     "BIN33",
+     "BIN163",
+     "DP3",
+     "BIN58",
+     "BIN221",
+     "BIN41",
+     "BIN94",
+     "BIN91",
+     "CS1"
+    ],
+    "service_time": 0.04,
+    "weight": 2.5
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     146.83778006,
+     -19.17986708
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "type": "bin",
+    "id": "BIN110",
+    "subgroup": "4819",
+    "collection_day": null,
+    "address": "Pacific Drive",
+    "fill_level": null,
+    "n_bins": 1,
+    "edges": [
+     "BIN90",
+     "BIN114",
+     "BIN29",
+     "BIN45",
+     "BIN62",
+     "BIN157",
+     "CS1",
+     "BIN46",
+     "BIN39",
+     "BIN199",
+     "BIN115",
+     "BIN107",
+     "DP3"
+    ],
+    "service_time": 0.04,
+    "weight": 2.5
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     146.86126936,
+     -19.11741942
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "type": "bin",
+    "id": "BIN113",
+    "subgroup": "4819",
+    "collection_day": null,
+    "address": "Yule Street Park",
+    "fill_level": null,
+    "n_bins": 1,
+    "edges": [
+     "BIN108",
+     "BIN142",
+     "BIN50",
+     "BIN198",
+     "BIN33",
+     "BIN163",
+     "DP3",
+     "BIN58",
+     "BIN221",
+     "BIN41",
+     "BIN94",
+     "BIN91",
+     "CS1"
+    ],
+    "service_time": 0.04,
+    "weight": 2.5
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     146.83758041,
+     -19.17973816
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "type": "bin",
+    "id": "BIN114",
+    "subgroup": "4819",
+    "collection_day": null,
+    "address": "Horseshoe Bay Park",
+    "fill_level": null,
+    "n_bins": 1,
+    "edges": [
+     "BIN199",
+     "BIN115",
+     "BIN107",
+     "BIN35",
+     "BIN29",
+     "BIN48",
+     "BIN45",
+     "BIN62",
+     "BIN110",
+     "BIN157",
+     "BIN90",
+     "CS1",
+     "DP3"
+    ],
+    "service_time": 0.04,
+    "weight": 2.5
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     146.86036438,
+     -19.11755458
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "type": "bin",
+    "id": "BIN115",
+    "subgroup": "4819",
+    "collection_day": null,
+    "address": "Horseshoe Bay Park",
+    "fill_level": null,
+    "n_bins": 1,
+    "edges": [
+     "BIN107",
+     "BIN35",
+     "BIN48",
+     "BIN110",
+     "BIN90",
+     "BIN114",
+     "BIN29",
+     "BIN45",
+     "BIN62",
+     "BIN157",
+     "CS1",
+     "BIN46",
+     "DP3"
+    ],
+    "service_time": 0.04,
+    "weight": 2.5
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     146.86119356,
+     -19.11721566
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "type": "bin",
+    "id": "BIN142",
+    "subgroup": "4819",
+    "collection_day": null,
+    "address": "Picnic Bay Foreshore",
+    "fill_level": null,
+    "n_bins": 1,
+    "edges": [
+     "BIN113",
+     "BIN108",
+     "BIN198",
+     "BIN50",
+     "BIN33",
+     "BIN163",
+     "DP3",
+     "BIN58",
+     "BIN221",
+     "BIN41",
+     "BIN94",
+     "BIN91",
+     "CS1"
+    ],
+    "service_time": 0.04,
+    "weight": 2.5
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     146.8371822,
+     -19.1804408
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "type": "bin",
+    "id": "BIN157",
+    "subgroup": "4819",
+    "collection_day": null,
+    "address": "Horseshoe Bay Road",
+    "fill_level": null,
+    "n_bins": 1,
+    "edges": [
+     "CS1",
+     "BIN46",
+     "BIN39",
+     "BIN90",
+     "BIN114",
+     "BIN199",
+     "BIN115",
+     "BIN107",
+     "BIN35",
+     "BIN29",
+     "BIN48",
+     "BIN45",
+     "DP3"
+    ],
+    "service_time": 0.04,
+    "weight": 2.5
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     146.86206719,
+     -19.12135261
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "type": "bin",
+    "id": "BIN163",
+    "subgroup": "4819",
+    "collection_day": null,
+    "address": "Picnic Bay Mall",
+    "fill_level": null,
+    "n_bins": 1,
+    "edges": [
+     "BIN33",
+     "BIN113",
+     "BIN108",
+     "BIN198",
+     "BIN142",
+     "BIN50",
+     "DP3",
+     "BIN58",
+     "BIN221",
+     "BIN41",
+     "BIN94",
+     "BIN91",
+     "CS1"
+    ],
+    "service_time": 0.04,
+    "weight": 2.5
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     146.83962323,
+     -19.17884268
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "type": "bin",
+    "id": "BIN197",
+    "subgroup": "4819",
+    "collection_day": null,
+    "address": "Nelly Bay Fores Shore",
+    "fill_level": null,
+    "n_bins": 1,
+    "edges": [
+     "BIN59",
+     "BIN33",
+     "BIN163",
+     "BIN113",
+     "BIN108",
+     "BIN198",
+     "BIN142",
+     "BIN50",
+     "DP3",
+     "BIN58",
+     "BIN221",
+     "BIN41",
+     "CS1"
+    ],
+    "service_time": 0.04,
+    "weight": 2.5
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     146.84768393,
+     -19.1656045
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "type": "bin",
+    "id": "BIN198",
+    "subgroup": "4819",
+    "collection_day": null,
+    "address": "Picnic Bay Mall",
+    "fill_level": null,
+    "n_bins": 1,
+    "edges": [
+     "BIN142",
+     "BIN50",
+     "BIN113",
+     "BIN108",
+     "BIN33",
+     "BIN163",
+     "DP3",
+     "BIN58",
+     "BIN221",
+     "BIN41",
+     "BIN94",
+     "BIN91",
+     "CS1"
+    ],
+    "service_time": 0.04,
+    "weight": 2.5
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     146.83803142,
+     -19.17982631
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "type": "bin",
+    "id": "BIN199",
+    "subgroup": "4819",
+    "collection_day": null,
+    "address": "Horseshoe Bay Park",
+    "fill_level": null,
+    "n_bins": 1,
+    "edges": [
+     "BIN115",
+     "BIN107",
+     "BIN35",
+     "BIN48",
+     "BIN110",
+     "BIN90",
+     "BIN114",
+     "BIN29",
+     "BIN45",
+     "BIN62",
+     "BIN157",
+     "CS1",
+     "DP3"
+    ],
+    "service_time": 0.04,
+    "weight": 2.5
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     146.86101748,
+     -19.11719998
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "type": "bin",
+    "id": "BIN219",
+    "subgroup": "4819",
+    "collection_day": null,
+    "address": "Geoffrey Bay Park",
+    "fill_level": null,
+    "n_bins": 1,
+    "edges": [
+     "BIN70",
+     "BIN89",
+     "BIN98",
+     "BIN22",
+     "BIN103",
+     "BIN23",
+     "BIN61",
+     "BIN20",
+     "BIN79",
+     "BIN97",
+     "BIN57",
+     "BIN41",
+     "DP3",
+     "CS1"
+    ],
+    "service_time": 0.04,
+    "weight": 2.5
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     146.86735382,
+     -19.15011662
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "type": "bin",
+    "id": "BIN221",
+    "subgroup": "4819",
+    "collection_day": null,
+    "address": "Kelly Street",
+    "fill_level": null,
+    "n_bins": 1,
+    "edges": [
+     "BIN91",
+     "BIN197",
+     "BIN81",
+     "BIN41",
+     "BIN94",
+     "BIN20",
+     "BIN59",
+     "BIN219",
+     "BIN64",
+     "BIN32",
+     "BIN22",
+     "BIN103",
+     "BIN74",
+     "DP3",
+     "CS1"
+    ],
+    "service_time": 0.04,
+    "weight": 2.5
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     146.84881528,
+     -19.15875006
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     146.86252875311308,
+     -19.124778814450764
+    ]
+   },
+   "properties": {
+    "type": "CS",
+    "id": "CS1",
+    "title": "Solar farm",
+    "cs_type": 3,
+    "bay": 1,
+    "address": "64 Horseshoe Bay Rd",
+    "subgroup": "4819",
+    "edges": [
+     "BIN20",
+     "BIN22",
+     "BIN23",
+     "BIN29",
+     "BIN32",
+     "BIN33",
+     "BIN35",
+     "BIN39",
+     "BIN41",
+     "BIN43",
+     "BIN45",
+     "BIN46",
+     "BIN48",
+     "BIN50",
+     "BIN57",
+     "BIN58",
+     "BIN59",
+     "BIN61",
+     "BIN62",
+     "BIN64",
+     "BIN70",
+     "BIN74",
+     "BIN79",
+     "BIN81",
+     "BIN89",
+     "BIN90",
+     "BIN91",
+     "BIN94",
+     "BIN97",
+     "BIN98",
+     "BIN103",
+     "BIN107",
+     "BIN108",
+     "BIN110",
+     "BIN113",
+     "BIN114",
+     "BIN115",
+     "BIN142",
+     "BIN157",
+     "BIN163",
+     "BIN197",
+     "BIN198",
+     "BIN199",
+     "BIN219",
+     "BIN221",
+     "DP3"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     146.83033443015623,
+     -19.172875880033995
+    ]
+   },
+   "properties": {
+    "type": "depot",
+    "id": "DP3",
+    "title": "Transfer Station",
+    "n_vehicles": null,
+    "address": "West Point Road, Picnic Bay",
+    "subgroup": "4819",
+    "edges": [
+     "BIN20",
+     "BIN22",
+     "BIN23",
+     "BIN29",
+     "BIN32",
+     "BIN33",
+     "BIN35",
+     "BIN39",
+     "BIN41",
+     "BIN43",
+     "BIN45",
+     "BIN46",
+     "BIN48",
+     "BIN50",
+     "BIN57",
+     "BIN58",
+     "BIN59",
+     "BIN61",
+     "BIN62",
+     "BIN64",
+     "BIN70",
+     "BIN74",
+     "BIN79",
+     "BIN81",
+     "BIN89",
+     "BIN90",
+     "BIN91",
+     "BIN94",
+     "BIN97",
+     "BIN98",
+     "BIN103",
+     "BIN107",
+     "BIN108",
+     "BIN110",
+     "BIN113",
+     "BIN114",
+     "BIN115",
+     "BIN142",
+     "BIN157",
+     "BIN163",
+     "BIN197",
+     "BIN198",
+     "BIN199",
+     "BIN219",
+     "BIN221",
+     "CS1"
+    ]
+   }
+  }
+ ]
+}

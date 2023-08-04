@@ -1,0 +1,778 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "type": "bin",
+    "id": "BIN0",
+    "subgroup": "1000",
+    "collection_day": null,
+    "address": "Rue de la Montagne 8",
+    "fill_level": null,
+    "n_bins": 1,
+    "edges": [
+     "BIN3",
+     "BIN1",
+     "BIN5",
+     "BIN4",
+     "BIN10",
+     "BIN6",
+     "BIN15",
+     "BIN16",
+     "BIN14",
+     "BIN12",
+     "DP1",
+     "CS0",
+     "CS1",
+     "BIN2",
+     "BIN17",
+     "BIN7"
+    ],
+    "service_time": 0.04,
+    "weight": 2.5
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.35479242516589,
+     50.846764336589
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "type": "bin",
+    "id": "BIN1",
+    "subgroup": "1000",
+    "collection_day": null,
+    "address": "March\u00e9 aux Herbes 105 | Entrance Agora Gallery",
+    "fill_level": null,
+    "n_bins": 1,
+    "edges": [
+     "BIN3",
+     "BIN0",
+     "BIN5",
+     "BIN4",
+     "BIN10",
+     "BIN6",
+     "BIN15",
+     "BIN16",
+     "BIN14",
+     "BIN12",
+     "DP1",
+     "CS0",
+     "CS1"
+    ],
+    "service_time": 0.04,
+    "weight": 2.5
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.35460723439337,
+     50.8464393033384
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "type": "bin",
+    "id": "BIN2",
+    "subgroup": "1000",
+    "collection_day": null,
+    "address": "Rue de l' Ev\u00eaque - Fripiers | Casino Viage Gallery",
+    "fill_level": null,
+    "n_bins": 1,
+    "edges": [
+     "CS0",
+     "CS1",
+     "BIN17",
+     "BIN10",
+     "BIN6",
+     "BIN15",
+     "BIN16",
+     "BIN14",
+     "BIN3",
+     "BIN5",
+     "BIN7",
+     "DP1",
+     "BIN0",
+     "BIN1",
+     "BIN4"
+    ],
+    "service_time": 0.04,
+    "weight": 2.5
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.35280948877334,
+     50.8495348417274
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "type": "bin",
+    "id": "BIN3",
+    "subgroup": "1000",
+    "collection_day": null,
+    "address": "Rue March\u00e9 aux Herbes 85 | in front of St Hubert Galleries",
+    "fill_level": null,
+    "n_bins": 1,
+    "edges": [
+     "BIN5",
+     "BIN4",
+     "BIN10",
+     "BIN6",
+     "BIN15",
+     "BIN16",
+     "BIN14",
+     "BIN0",
+     "BIN12",
+     "BIN8",
+     "BIN1",
+     "DP1",
+     "BIN11",
+     "CS0",
+     "CS1",
+     "BIN2",
+     "BIN17",
+     "BIN7"
+    ],
+    "service_time": 0.04,
+    "weight": 2.5
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.35420122212485,
+     50.8467882446145
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "type": "bin",
+    "id": "BIN4",
+    "subgroup": "1000",
+    "collection_day": null,
+    "address": "Rue de la Bourse - Anspach | Grand Caf\u00e9",
+    "fill_level": null,
+    "n_bins": 1,
+    "edges": [
+     "BIN10",
+     "BIN6",
+     "BIN15",
+     "BIN16",
+     "BIN14",
+     "BIN12",
+     "BIN8",
+     "BIN11",
+     "BIN5",
+     "BIN3",
+     "DP1",
+     "CS1",
+     "CS0"
+    ],
+    "service_time": 0.04,
+    "weight": 2.5
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.34987045824527,
+     50.8484887092616
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "type": "bin",
+    "id": "BIN5",
+    "subgroup": "1000",
+    "collection_day": null,
+    "address": "Rue des Fripiers - March\u00e9 aux Herbes | in front of Geox",
+    "fill_level": null,
+    "n_bins": 1,
+    "edges": [
+     "BIN4",
+     "BIN10",
+     "BIN6",
+     "BIN15",
+     "BIN16",
+     "BIN14",
+     "BIN12",
+     "BIN8",
+     "BIN11",
+     "BIN3",
+     "DP1",
+     "CS1",
+     "CS0"
+    ],
+    "service_time": 0.04,
+    "weight": 2.5
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.35182568040386,
+     50.8483223779406
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "type": "bin",
+    "id": "BIN6",
+    "subgroup": "1000",
+    "collection_day": null,
+    "address": "Stairs at the Stock Exchange - right",
+    "fill_level": null,
+    "n_bins": 1,
+    "edges": [
+     "BIN15",
+     "BIN16",
+     "BIN14",
+     "BIN10",
+     "BIN12",
+     "BIN8",
+     "BIN11",
+     "BIN4",
+     "BIN5",
+     "BIN3",
+     "DP1",
+     "CS1",
+     "CS0"
+    ],
+    "service_time": 0.04,
+    "weight": 2.5
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.34975177049636,
+     50.8481273980627
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "type": "bin",
+    "id": "BIN7",
+    "subgroup": "1000",
+    "collection_day": null,
+    "address": "Rue des Fripiers 55 | side Rue de l'\u00c9cuyer",
+    "fill_level": null,
+    "n_bins": 1,
+    "edges": [
+     "CS0",
+     "CS1",
+     "BIN2",
+     "BIN3",
+     "BIN0",
+     "BIN17",
+     "BIN5",
+     "BIN10",
+     "BIN1",
+     "BIN6",
+     "DP1"
+    ],
+    "service_time": 0.04,
+    "weight": 2.5
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.3528816159386,
+     50.8494022983905
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "type": "bin",
+    "id": "BIN8",
+    "subgroup": "1000",
+    "collection_day": null,
+    "address": "Rue au Beurre - Tabora | St Nicholas Church",
+    "fill_level": null,
+    "n_bins": 1,
+    "edges": [
+     "BIN4",
+     "BIN10",
+     "BIN6",
+     "BIN15",
+     "BIN16",
+     "BIN14",
+     "BIN12",
+     "BIN11",
+     "BIN5",
+     "BIN3",
+     "DP1",
+     "CS1",
+     "CS0"
+    ],
+    "service_time": 0.04,
+    "weight": 2.5
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.35118460730552,
+     50.8477908118694
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "type": "bin",
+    "id": "BIN9",
+    "subgroup": "1000",
+    "collection_day": null,
+    "address": "Place St Catherine 8 | left of the church",
+    "fill_level": null,
+    "n_bins": 1,
+    "edges": [
+     "BIN13",
+     "BIN2",
+     "CS1",
+     "CS0",
+     "BIN17",
+     "BIN10",
+     "BIN6",
+     "BIN15",
+     "BIN16",
+     "BIN14",
+     "DP1"
+    ],
+    "service_time": 0.04,
+    "weight": 2.5
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.34784707406618,
+     50.8507589031966
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "type": "bin",
+    "id": "BIN10",
+    "subgroup": "1000",
+    "collection_day": null,
+    "address": "Rue Paul Devaux - Bourse | right of McDonald's",
+    "fill_level": null,
+    "n_bins": 1,
+    "edges": [
+     "BIN13",
+     "BIN9",
+     "BIN2",
+     "CS1",
+     "CS0",
+     "BIN17",
+     "BIN6",
+     "BIN15",
+     "BIN16",
+     "BIN14",
+     "DP1"
+    ],
+    "service_time": 0.04,
+    "weight": 2.5
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.34949359881136,
+     50.8487154591863
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "type": "bin",
+    "id": "BIN11",
+    "subgroup": "1000",
+    "collection_day": null,
+    "address": "Rue au Beurre - Petite rue au Beurre",
+    "fill_level": null,
+    "n_bins": 1,
+    "edges": [
+     "BIN5",
+     "BIN4",
+     "BIN10",
+     "BIN6",
+     "BIN15",
+     "BIN16",
+     "BIN14",
+     "BIN12",
+     "BIN8",
+     "BIN3",
+     "DP1",
+     "CS1",
+     "CS0"
+    ],
+    "service_time": 0.04,
+    "weight": 2.5
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.35156517976224,
+     50.8476602948075
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "type": "bin",
+    "id": "BIN12",
+    "subgroup": "1000",
+    "collection_day": null,
+    "address": "Rue Auguste Orts - Bourse | Exki",
+    "fill_level": null,
+    "n_bins": 1,
+    "edges": [
+     "BIN6",
+     "BIN15",
+     "BIN10",
+     "BIN16",
+     "BIN14",
+     "BIN8",
+     "BIN11",
+     "BIN4",
+     "BIN5",
+     "BIN9",
+     "DP1",
+     "CS1",
+     "CS0"
+    ],
+    "service_time": 0.04,
+    "weight": 2.5
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.34921428168411,
+     50.8484323107875
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "type": "bin",
+    "id": "BIN13",
+    "subgroup": "1000",
+    "collection_day": null,
+    "address": "Rue St Catherine side Noordzee - Mer du Nord",
+    "fill_level": null,
+    "n_bins": 1,
+    "edges": [
+     "BIN9",
+     "BIN2",
+     "CS1",
+     "CS0",
+     "BIN17",
+     "BIN10",
+     "BIN6",
+     "BIN15",
+     "BIN16",
+     "BIN14",
+     "DP1"
+    ],
+    "service_time": 0.04,
+    "weight": 2.5
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.34736627951929,
+     50.8503845644789
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "type": "bin",
+    "id": "BIN14",
+    "subgroup": "1000",
+    "collection_day": null,
+    "address": "Anspach - Jules Van Praet | O'Reilly's",
+    "fill_level": null,
+    "n_bins": 1,
+    "edges": [
+     "BIN6",
+     "BIN15",
+     "BIN10",
+     "BIN16",
+     "BIN12",
+     "BIN8",
+     "BIN11",
+     "BIN4",
+     "BIN5",
+     "BIN9",
+     "DP1",
+     "CS1",
+     "CS0"
+    ],
+    "service_time": 0.04,
+    "weight": 2.5
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.34930705466581,
+     50.8481201699067
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "type": "bin",
+    "id": "BIN15",
+    "subgroup": "1000",
+    "collection_day": null,
+    "address": "Stairs at the Stock Exchange - left",
+    "fill_level": null,
+    "n_bins": 1,
+    "edges": [
+     "BIN16",
+     "BIN14",
+     "BIN10",
+     "BIN6",
+     "BIN12",
+     "BIN8",
+     "BIN11",
+     "BIN4",
+     "BIN5",
+     "BIN3",
+     "DP1",
+     "CS1",
+     "CS0"
+    ],
+    "service_time": 0.04,
+    "weight": 2.5
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.34989920982172,
+     50.8482880303669
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "type": "bin",
+    "id": "BIN16",
+    "subgroup": "1000",
+    "collection_day": null,
+    "address": "Anspach - Henri Maus | Ici Paris XL",
+    "fill_level": null,
+    "n_bins": 1,
+    "edges": [
+     "BIN8",
+     "BIN11",
+     "BIN4",
+     "BIN5",
+     "BIN10",
+     "BIN6",
+     "BIN15",
+     "BIN14",
+     "BIN12",
+     "BIN3",
+     "BIN0",
+     "DP1",
+     "CS0",
+     "CS1"
+    ],
+    "service_time": 0.04,
+    "weight": 2.5
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.34943008895493,
+     50.8480508986111
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "type": "bin",
+    "id": "BIN17",
+    "subgroup": "1000",
+    "collection_day": null,
+    "address": "Anspach - Paul Devaux | Pizza Hut",
+    "fill_level": null,
+    "n_bins": 1,
+    "edges": [
+     "BIN10",
+     "BIN6",
+     "BIN15",
+     "BIN16",
+     "BIN14",
+     "BIN12",
+     "BIN8",
+     "BIN11",
+     "BIN4",
+     "BIN5",
+     "DP1",
+     "CS1",
+     "CS0"
+    ],
+    "service_time": 0.04,
+    "weight": 2.5
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.34981546389315,
+     50.8485444187267
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.35352862433092,
+     50.8502638893992
+    ]
+   },
+   "properties": {
+    "type": "CS",
+    "id": "CS0",
+    "title": "Interparking Monnaie/Munt",
+    "cs_type": 2,
+    "bay": 2,
+    "address": "Place de la Monnaie - Muntplein,Ville de Bruxelles - Stad Brussel,Brussels-Capital",
+    "subgroup": "1000",
+    "edges": [
+     "BIN0",
+     "BIN1",
+     "BIN2",
+     "BIN3",
+     "BIN4",
+     "BIN5",
+     "BIN6",
+     "BIN7",
+     "BIN8",
+     "BIN9",
+     "BIN10",
+     "BIN11",
+     "BIN12",
+     "BIN13",
+     "BIN14",
+     "BIN15",
+     "BIN16",
+     "BIN17",
+     "CS1",
+     "DP1"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.351153653406072,
+     50.85118117906845
+    ]
+   },
+   "properties": {
+    "type": "CS",
+    "id": "CS1",
+    "title": "Interparking Brouckere",
+    "cs_type": 2,
+    "bay": 1,
+    "address": ",Ville de Bruxelles - Stad Brussel,Brussels-Capital",
+    "subgroup": "1000",
+    "edges": [
+     "BIN0",
+     "BIN1",
+     "BIN2",
+     "BIN3",
+     "BIN4",
+     "BIN5",
+     "BIN6",
+     "BIN7",
+     "BIN8",
+     "BIN9",
+     "BIN10",
+     "BIN11",
+     "BIN12",
+     "BIN13",
+     "BIN14",
+     "BIN15",
+     "BIN16",
+     "BIN17",
+     "CS0",
+     "DP1"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.3760646307534365,
+     50.87972673171927
+    ]
+   },
+   "properties": {
+    "type": "depot",
+    "id": "DP1",
+    "title": "Regional waste disposal North",
+    "n_vehicles": null,
+    "address": " Rue du Rupel",
+    "subgroup": "1000",
+    "edges": [
+     "BIN0",
+     "BIN1",
+     "BIN2",
+     "BIN3",
+     "BIN4",
+     "BIN5",
+     "BIN6",
+     "BIN7",
+     "BIN8",
+     "BIN9",
+     "BIN10",
+     "BIN11",
+     "BIN12",
+     "BIN13",
+     "BIN14",
+     "BIN15",
+     "BIN16",
+     "BIN17",
+     "CS0",
+     "CS1"
+    ]
+   }
+  }
+ ]
+}
